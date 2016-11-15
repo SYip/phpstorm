@@ -3,19 +3,135 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/test/comp.js" timestamp="1479182637456">
+      <file name="$USER_HOME$/test/comp.js" timestamp="1479182975800">
+        <mark key="'" line="6549" column="54" />
         <mark key="[" line="4" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="8" column="27" />
+        <mark key="]" line="696" column="25" />
+        <mark key="." line="696" column="25" />
+        <mark key="^" line="696" column="25" />
       </file>
       <file name="$USER_HOME$/test/compB.js" timestamp="1479180175718">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/test/compA.php" timestamp="1479187710536">
+        <mark key="'" line="1280" column="34" />
+        <mark key="[" line="6" column="3" />
+        <mark key="]" line="5071" column="2" />
+        <mark key="^" line="5071" column="2" />
+        <mark key="." line="5071" column="2" />
+      </file>
+      <file name="$USER_HOME$/test/compB.php" timestamp="1479187373705">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="6" column="3" />
+        <mark key="]" line="3839" column="2" />
+        <mark key="^" line="3839" column="2" />
+        <mark key="." line="3839" column="2" />
+      </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="10843" column="21" filename="$USER_HOME$/test/comp.js" />
+      <jump line="10901" column="30" filename="$USER_HOME$/test/comp.js" />
+      <jump line="10921" column="35" filename="$USER_HOME$/test/comp.js" />
+      <jump line="10965" column="21" filename="$USER_HOME$/test/comp.js" />
+      <jump line="11021" column="21" filename="$USER_HOME$/test/comp.js" />
+      <jump line="11129" column="21" filename="$USER_HOME$/test/comp.js" />
+      <jump line="11233" column="21" filename="$USER_HOME$/test/comp.js" />
+      <jump line="11273" column="37" filename="$USER_HOME$/test/comp.js" />
+      <jump line="11411" column="21" filename="$USER_HOME$/test/comp.js" />
+      <jump line="11437" column="21" filename="$USER_HOME$/test/comp.js" />
+      <jump line="11463" column="21" filename="$USER_HOME$/test/comp.js" />
+      <jump line="11671" column="21" filename="$USER_HOME$/test/comp.js" />
+      <jump line="11691" column="21" filename="$USER_HOME$/test/comp.js" />
+      <jump line="206624" column="0" filename="$USER_HOME$/test/comp.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/test/comp.js" />
+      <jump line="940" column="49" filename="$USER_HOME$/test/comp.js" />
+      <jump line="1057" column="74" filename="$USER_HOME$/test/comp.js" />
+      <jump line="2606" column="17" filename="$USER_HOME$/test/comp.js" />
+      <jump line="2611" column="21" filename="$USER_HOME$/test/comp.js" />
+      <jump line="2615" column="21" filename="$USER_HOME$/test/comp.js" />
+      <jump line="2619" column="21" filename="$USER_HOME$/test/comp.js" />
+      <jump line="2623" column="21" filename="$USER_HOME$/test/comp.js" />
+      <jump line="2625" column="21" filename="$USER_HOME$/test/comp.js" />
+      <jump line="2666" column="17" filename="$USER_HOME$/test/comp.js" />
+      <jump line="2671" column="21" filename="$USER_HOME$/test/comp.js" />
+      <jump line="2675" column="21" filename="$USER_HOME$/test/comp.js" />
+      <jump line="2681" column="21" filename="$USER_HOME$/test/comp.js" />
+      <jump line="2699" column="21" filename="$USER_HOME$/test/comp.js" />
+      <jump line="2848" column="25" filename="$USER_HOME$/test/comp.js" />
+      <jump line="2850" column="39" filename="$USER_HOME$/test/comp.js" />
+      <jump line="2852" column="25" filename="$USER_HOME$/test/comp.js" />
+      <jump line="2929" column="31" filename="$USER_HOME$/test/comp.js" />
+      <jump line="3037" column="21" filename="$USER_HOME$/test/comp.js" />
+      <jump line="3043" column="35" filename="$USER_HOME$/test/comp.js" />
+      <jump line="3217" column="29" filename="$USER_HOME$/test/comp.js" />
+      <jump line="3239" column="29" filename="$USER_HOME$/test/comp.js" />
+      <jump line="3385" column="28" filename="$USER_HOME$/test/comp.js" />
+      <jump line="3417" column="29" filename="$USER_HOME$/test/comp.js" />
+      <jump line="3449" column="36" filename="$USER_HOME$/test/comp.js" />
+      <jump line="3469" column="45" filename="$USER_HOME$/test/comp.js" />
+      <jump line="3673" column="47" filename="$USER_HOME$/test/comp.js" />
+      <jump line="3927" column="31" filename="$USER_HOME$/test/comp.js" />
+      <jump line="4065" column="41" filename="$USER_HOME$/test/comp.js" />
+      <jump line="4149" column="29" filename="$USER_HOME$/test/comp.js" />
+      <jump line="4199" column="29" filename="$USER_HOME$/test/comp.js" />
+      <jump line="4243" column="28" filename="$USER_HOME$/test/comp.js" />
+      <jump line="4267" column="28" filename="$USER_HOME$/test/comp.js" />
+      <jump line="4303" column="21" filename="$USER_HOME$/test/comp.js" />
+      <jump line="4351" column="38" filename="$USER_HOME$/test/comp.js" />
+      <jump line="4395" column="32" filename="$USER_HOME$/test/comp.js" />
+      <jump line="4591" column="72" filename="$USER_HOME$/test/comp.js" />
+      <jump line="4655" column="57" filename="$USER_HOME$/test/comp.js" />
+      <jump line="4715" column="58" filename="$USER_HOME$/test/comp.js" />
+      <jump line="4795" column="65" filename="$USER_HOME$/test/comp.js" />
+      <jump line="4831" column="59" filename="$USER_HOME$/test/comp.js" />
+      <jump line="4895" column="64" filename="$USER_HOME$/test/comp.js" />
+      <jump line="4953" column="54" filename="$USER_HOME$/test/comp.js" />
+      <jump line="5035" column="58" filename="$USER_HOME$/test/comp.js" />
+      <jump line="5091" column="66" filename="$USER_HOME$/test/comp.js" />
+      <jump line="5127" column="70" filename="$USER_HOME$/test/comp.js" />
+      <jump line="5193" column="54" filename="$USER_HOME$/test/comp.js" />
+      <jump line="5251" column="56" filename="$USER_HOME$/test/comp.js" />
+      <jump line="5335" column="53" filename="$USER_HOME$/test/comp.js" />
+      <jump line="5391" column="59" filename="$USER_HOME$/test/comp.js" />
+      <jump line="5427" column="47" filename="$USER_HOME$/test/comp.js" />
+      <jump line="5487" column="53" filename="$USER_HOME$/test/comp.js" />
+      <jump line="5547" column="56" filename="$USER_HOME$/test/comp.js" />
+      <jump line="5607" column="56" filename="$USER_HOME$/test/comp.js" />
+      <jump line="5667" column="55" filename="$USER_HOME$/test/comp.js" />
+      <jump line="5727" column="73" filename="$USER_HOME$/test/comp.js" />
+      <jump line="5791" column="54" filename="$USER_HOME$/test/comp.js" />
+      <jump line="5849" column="65" filename="$USER_HOME$/test/comp.js" />
+      <jump line="5899" column="54" filename="$USER_HOME$/test/comp.js" />
+      <jump line="5951" column="56" filename="$USER_HOME$/test/comp.js" />
+      <jump line="6013" column="55" filename="$USER_HOME$/test/comp.js" />
+      <jump line="6067" column="53" filename="$USER_HOME$/test/comp.js" />
+      <jump line="6104" column="16" filename="$USER_HOME$/test/comp.js" />
+      <jump line="6137" column="54" filename="$USER_HOME$/test/comp.js" />
+      <jump line="6233" column="48" filename="$USER_HOME$/test/comp.js" />
+      <jump line="6291" column="59" filename="$USER_HOME$/test/comp.js" />
+      <jump line="6377" column="52" filename="$USER_HOME$/test/comp.js" />
+      <jump line="6429" column="65" filename="$USER_HOME$/test/comp.js" />
+      <jump line="6489" column="65" filename="$USER_HOME$/test/comp.js" />
+      <jump line="6549" column="54" filename="$USER_HOME$/test/comp.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/test/compA.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/test/compB.php" />
+      <jump line="3396" column="34" filename="$USER_HOME$/test/compA.php" />
+      <jump line="4874" column="40" filename="$USER_HOME$/test/compA.php" />
+      <jump line="1220" column="35" filename="$USER_HOME$/test/compA.php" />
+      <jump line="1283" column="35" filename="$USER_HOME$/test/compA.php" />
+      <jump line="241" column="35" filename="$USER_HOME$/test/compA.php" />
+      <jump line="64" column="40" filename="$USER_HOME$/test/compA.php" />
+      <jump line="104" column="40" filename="$USER_HOME$/test/compA.php" />
+      <jump line="1005" column="36" filename="$USER_HOME$/test/compA.php" />
+      <jump line="1058" column="50" filename="$USER_HOME$/test/compA.php" />
+      <jump line="1059" column="52" filename="$USER_HOME$/test/compA.php" />
+      <jump line="1217" column="40" filename="$USER_HOME$/test/compA.php" />
+      <jump line="1218" column="42" filename="$USER_HOME$/test/compA.php" />
+      <jump line="1279" column="36" filename="$USER_HOME$/test/compA.php" />
+      <jump line="1280" column="34" filename="$USER_HOME$/test/compA.php" />
+    </jumps>
     <registers>
       <register name="1" type="2">
         <text encoding="base64">KGZ1bmN0aW9uIChhcHApIHsKICAgIGFwcC5hdWdtZW50KCJjb25maWciLCB7CiAgICAgICAgImFwcElkIjogIlN1Z2FyQ1JNIiwKICAgICAgICAiZW52IjogInByb2QiLAogICAgICAgICJwbGF0Zm9ybSI6ICJiYXNlIiwKICAgICAgICAiYWRkaXRpb25hbENvbXBvbmVudHMiOiB7CiAgICAgICAgICAgICJoZWFkZXIiOiB7InRhcmdldCI6ICIjaGVhZGVyIiwgImxheW91dCI6ICJoZWFkZXIifSwKICAgICAgICAgICAgImZvb3RlciI6IHsidGFyZ2V0IjogIiNmb290ZXIiLCAibGF5b3V0IjogImZvb3RlciJ9LAogICAgICAgICAgICAiZHJhd2VyIjogeyJ0YXJnZXQiOiAiI2RyYXdlcnMiLCAibGF5b3V0IjogImRyYXdlciJ9LAogICAgICAgICAgICAic3dlZXRzcG90IjogeyJ0YXJnZXQiOiAiI3N3ZWV0c3BvdCIsICJsYXlvdXQiOiAic3dlZXRzcG90In0KICAgICAgICB9LAogICAgICAgICJhbGVydHNFbCI6ICIjYWxlcnRzIiwKICAgICAgICAiYWxlcnRBdXRvQ2xvc2VEZWxheSI6IDI1MDAsCiAgICAgICAgInNlcnZlclVybCI6ICJyZXN0XC92MTAiLAogICAgICAgICJzaXRlVXJsIjogIiIsCiAgICAgICAgInVuc2VjdXJlUm91dGVzIjogWyJsb2dpbiIsICJsb2dvdXQiLCAiZXJyb3IiLCAiZm9yZ290cGFzc3dvcmQiXSwKICAgICAgICAibG9hZENzcyI6IGZhbHNlLAogICAgICAgICJ0aGVtZU5hbWUiOiAiZGVmYXVsdCIsCiAgICAgICAgImNsaWVudElEIjogInN1Z2FyIiwKICAgICAgICAiY29sbGFwc2VTdWJwYW5lbHMiOiBmYWxzZSwKICAgICAgICAicHJldmlld0VkaXQiOiBmYWxzZSwKICAgICAgICAic2VydmVyVGltZW91dCI6IDE4MCwKICAgICAgICAibWV0YWRhdGFUeXBlcyI6IFsiY3VycmVuY2llcyIsICJmdWxsX21vZHVsZV9saXN0IiwgIm1vZHVsZXNfaW5mbyIsICJoaWRkZW5fc3VicGFuZWxzIiwgImpzc291cmNlIiwgImpzc291cmNlX3B1YmxpYyIsICJvcmRlcmVkX2xhYmVscyIsICJtb2R1bGVfdGFiX21hcCIsICJtb2R1bGVzIiwgInJlbGF0aW9uc2hpcHMiLCAic2VydmVyX2luZm8iLCAiY29uZmlnIiwgIl9vdmVycmlkZV92YWx1ZXMiLCAiZmlsdGVycyIsICJsb2dvX3VybCJdCiAgICB9LCBmYWxzZSk7Cn0pKFNVR0FSLkFwcCk7Cg==</text>
@@ -36,22 +152,31 @@
         <text>q</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxbXD4=</text>
+        <text>view</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxbXD4=</last-search>
+      <last-search>view</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxbXD4=</last-pattern>
+      <last-pattern>view</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry encoding="base64">XDxbXD4=</entry>
+        <entry>account</entry>
+        <entry>module</entry>
+        <entry>recordview</entry>
+        <entry>listview</entry>
+        <entry>record</entry>
+        <entry>Record</entry>
+        <entry>View</entry>
+        <entry>view</entry>
       </history-search>
       <history-cmd>
         <entry>set nu</entry>
+        <entry>w</entry>
         <entry>q</entry>
       </history-cmd>
       <history-expr />
