@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="actual potential.json" type="JSON" />
       <mapping pattern="7ed.json" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
