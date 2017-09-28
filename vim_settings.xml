@@ -47,7 +47,6 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="97" column="17" />
       </file>
-      <file name="$USER_HOME$/test/ceb0.json" timestamp="1479368029287" />
       <file name="$USER_HOME$/test/a.json" timestamp="1479371370183">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="10" column="0" />
@@ -274,6 +273,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
