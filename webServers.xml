@@ -4,6 +4,9 @@
       <webServer id="04d7b963-d6af-4699-aff2-943cd860bb98" name="dedeconnect" url="http://localhost">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="1a0c912d-7151-4e1d-adc9-6a758b50d2b0" name="Techweb server" url="http://techweb.com:12000">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
