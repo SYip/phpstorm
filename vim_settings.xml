@@ -32,6 +32,11 @@
       <file name="/a.dummy" timestamp="1508922327808">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/server/techweb/app/_includes/dbconnect.inc.php" timestamp="1508924685198">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/test/B.js" timestamp="1479193006598">
         <mark key="[" line="3" column="0" />
       </file>
@@ -57,16 +62,14 @@
       <file name="$USER_HOME$/server/techweb/app/_includes/welcome.inc.php" timestamp="1508922301935">
         <mark key="'" line="62" column="17" />
       </file>
-      <file name="$USER_HOME$/server/techweb/app/_includes/config.inc.php" timestamp="1508922733785">
-        <mark key="'" line="31" column="9" />
+      <file name="$USER_HOME$/server/techweb/app/_includes/config.inc.php" timestamp="1508924665549">
+        <mark key="'" line="38" column="28" />
         <mark key="[" line="38" column="19" />
-        <mark key="]" line="38" column="27" />
-        <mark key="." line="38" column="27" />
-        <mark key="^" line="38" column="27" />
+        <mark key="]" line="38" column="23" />
+        <mark key="." line="38" column="23" />
+        <mark key="^" line="38" column="23" />
       </file>
-      <file name="$USER_HOME$/server/techweb/app/index.php" timestamp="1508922894845">
-        <mark key="[" line="0" column="26" />
-        <mark key="]" line="0" column="26" />
+      <file name="$USER_HOME$/server/techweb/app/index.php" timestamp="1508924081465">
         <mark key="." line="0" column="26" />
         <mark key="^" line="0" column="20" />
       </file>
@@ -100,7 +103,6 @@
       <file name="$USER_HOME$/server/techweb/app/client.php" timestamp="1508919602751" />
     </filemarks>
     <jumps>
-      <jump line="104" column="40" filename="$USER_HOME$/test/compA.php" />
       <jump line="1005" column="36" filename="$USER_HOME$/test/compA.php" />
       <jump line="1058" column="50" filename="$USER_HOME$/test/compA.php" />
       <jump line="1059" column="52" filename="$USER_HOME$/test/compA.php" />
@@ -200,46 +202,47 @@
       <jump line="48" column="5" filename="$USER_HOME$/server/techweb/app/_includes/config.inc.php" />
       <jump line="15" column="10" filename="$USER_HOME$/server/techweb/app/_includes/config.inc.php" />
       <jump line="31" column="9" filename="$USER_HOME$/server/techweb/app/_includes/config.inc.php" />
+      <jump line="38" column="28" filename="$USER_HOME$/server/techweb/app/_includes/config.inc.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICYgfkVfTk9USUNFICYgfkVfU1RSSUNUICYgfkVfREVQUkVDQVRFRA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dmFyX2R1bXAoJG15c3FsVmFycyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICYgfkVfTk9USUNFICYgfkVfU1RSSUNUICYgfkVfREVQUkVDQVRFRA==</text>
+        <text>localhost</text>
       </register>
       <register name="/" type="4">
         <text>host</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CWVycm9yX3JlcG9ydGluZyhFX0FMTCAmIH5FX05PVElDRSAmIH5FX1NUUklDVCApOwo=</text>
+      <register name="0" type="4">
+        <text>$mysqlVars</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dmFyX2R1bXAoJGRiKTsKZXhpdDsK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ZXhpdDsK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">dmFyX2R1bXAoJG15c3FsVmFycyk7Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">dmFyX2R1bXAoJG15c3FsVmFycyk7CmV4aXQ7Cg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ZXJyb3JfcmVwb3J0aW5nKEVfQUxMICYgfkVfTk9USUNFICYgfkVfU1RSSUNUICk7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">dmFyX2R1bXAoJGRiTmFtZSk7ZXhpdDsK</text>
-      </register>
-      <register name="6" type="2">
+      <register name="3" type="2">
         <text encoding="base64">dmFyX2R1bXAoJGRiKTsKZXhpdDsK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZXhpdDsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">dmFyX2R1bXAoJG15c3FsVmFycyk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">dmFyX2R1bXAoJG15c3FsVmFycyk7CmV4aXQ7Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmFyX2R1bXAoJGRiTmFtZSk7ZXhpdDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGlzcGxheV9lcnJvcnMoMCk7Cg==</text>
+        <text encoding="base64">dmFyX2R1bXAoJGRiKTsKZXhpdDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PC9JZk1vZHVsZT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set nu</text>
