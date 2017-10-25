@@ -29,7 +29,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1508919683570">
+      <file name="/a.dummy" timestamp="1508922327808">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/test/B.js" timestamp="1479193006598">
@@ -54,18 +54,21 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="97" column="17" />
       </file>
-      <file name="$USER_HOME$/server/techweb/app/_includes/config.inc.php" timestamp="1508920814342">
-        <mark key="'" line="39" column="4" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="48" />
-        <mark key="." line="5" column="27" />
-        <mark key="^" line="5" column="27" />
+      <file name="$USER_HOME$/server/techweb/app/_includes/welcome.inc.php" timestamp="1508922301935">
+        <mark key="'" line="62" column="17" />
       </file>
-      <file name="$USER_HOME$/server/techweb/app/index.php" timestamp="1508920841210">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="1" column="0" />
+      <file name="$USER_HOME$/server/techweb/app/_includes/config.inc.php" timestamp="1508922733785">
+        <mark key="'" line="31" column="9" />
+        <mark key="[" line="38" column="19" />
+        <mark key="]" line="38" column="27" />
+        <mark key="." line="38" column="27" />
+        <mark key="^" line="38" column="27" />
+      </file>
+      <file name="$USER_HOME$/server/techweb/app/index.php" timestamp="1508922894845">
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="0" column="26" />
+        <mark key="." line="0" column="26" />
+        <mark key="^" line="0" column="20" />
       </file>
       <file name="$USER_HOME$/test/a.json" timestamp="1479371370183">
         <mark key="[" line="0" column="0" />
@@ -97,10 +100,6 @@
       <file name="$USER_HOME$/server/techweb/app/client.php" timestamp="1508919602751" />
     </filemarks>
     <jumps>
-      <jump line="1220" column="35" filename="$USER_HOME$/test/compA.php" />
-      <jump line="1283" column="35" filename="$USER_HOME$/test/compA.php" />
-      <jump line="241" column="35" filename="$USER_HOME$/test/compA.php" />
-      <jump line="64" column="40" filename="$USER_HOME$/test/compA.php" />
       <jump line="104" column="40" filename="$USER_HOME$/test/compA.php" />
       <jump line="1005" column="36" filename="$USER_HOME$/test/compA.php" />
       <jump line="1058" column="50" filename="$USER_HOME$/test/compA.php" />
@@ -197,62 +196,64 @@
       <jump line="34" column="25" filename="$USER_HOME$/server/techweb/app/_includes/config.inc.php" />
       <jump line="5" column="1" filename="$USER_HOME$/server/techweb/app/_includes/config.inc.php" />
       <jump line="39" column="4" filename="$USER_HOME$/server/techweb/app/_includes/config.inc.php" />
+      <jump line="63" column="17" filename="$USER_HOME$/server/techweb/app/_includes/welcome.inc.php" />
+      <jump line="48" column="5" filename="$USER_HOME$/server/techweb/app/_includes/config.inc.php" />
+      <jump line="15" column="10" filename="$USER_HOME$/server/techweb/app/_includes/config.inc.php" />
+      <jump line="31" column="9" filename="$USER_HOME$/server/techweb/app/_includes/config.inc.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICYgfkVfTk9USUNFICYgfkVfU1RSSUNUICYgfkVfREVQUkVDQVRFRA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">RV9BTEwgJiB+RV9XQVJOSU5HICYgfkVfU1RSSUNUICYgfkVfREVQUkVDQVRFRA==</text>
+        <text encoding="base64">ICYgfkVfTk9USUNFICYgfkVfU1RSSUNUICYgfkVfREVQUkVDQVRFRA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxlcnJvcl9yZXBvcnRpbmdcPg==</text>
+        <text>host</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZXJyb3JfcmVwb3J0aW5nKEVfQUxMICYgfkVfTk9USUNFICYgfkVfU1RSSUNUICk7Cg==</text>
+        <text encoding="base64">CWVycm9yX3JlcG9ydGluZyhFX0FMTCAmIH5FX05PVElDRSAmIH5FX1NUUklDVCApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmFyX2R1bXAoJGRiKTsKZXhpdDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGlzcGxheV9lcnJvcnMoMCk7Cg==</text>
+        <text encoding="base64">ZXhpdDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PC9JZk1vZHVsZT4K</text>
+        <text encoding="base64">dmFyX2R1bXAoJG15c3FsVmFycyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PElmTW9kdWxlIG1vZF9waHA1LmM+Cg==</text>
+        <text encoding="base64">dmFyX2R1bXAoJG15c3FsVmFycyk7CmV4aXQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PAo=</text>
+        <text encoding="base64">dmFyX2R1bXAoJGRiTmFtZSk7ZXhpdDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmFyX2R1bXAoJGRiKTsKZXhpdDsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAoCg==</text>
+        <text encoding="base64">ZGlzcGxheV9lcnJvcnMoMCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFtmaWx0ZXJfMV0gPT4gYXJyYXkK</text>
+        <text encoding="base64">PC9JZk1vZHVsZT4K</text>
       </register>
       <register name=":" type="4">
         <text>set nu</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxlcnJvcl9yZXBvcnRpbmdcPg==</last-search>
+      <last-search>host</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxlcnJvcl9yZXBvcnRpbmdcPg==</last-pattern>
+      <last-pattern>host</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>account</entry>
-        <entry>module</entry>
         <entry>recordview</entry>
         <entry>listview</entry>
         <entry>record</entry>
@@ -271,6 +272,8 @@
         <entry encoding="base64">XDx1c2VyX25hbWVcPg==</entry>
         <entry encoding="base64">XDxmaWx0ZXJfMVw+</entry>
         <entry encoding="base64">XDxlcnJvcl9yZXBvcnRpbmdcPg==</entry>
+        <entry encoding="base64">XDx3ZWJQYXRoXD4=</entry>
+        <entry>host</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
