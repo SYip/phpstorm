@@ -100,16 +100,11 @@
         <mark key="^" line="6" column="15" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/server/techweb/app/client.php" timestamp="1508919602751" />
+      <file name="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" timestamp="1508927324031">
+        <mark key="'" line="3918" column="71" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="1005" column="36" filename="$USER_HOME$/test/compA.php" />
-      <jump line="1058" column="50" filename="$USER_HOME$/test/compA.php" />
-      <jump line="1059" column="52" filename="$USER_HOME$/test/compA.php" />
-      <jump line="1217" column="40" filename="$USER_HOME$/test/compA.php" />
-      <jump line="1218" column="42" filename="$USER_HOME$/test/compA.php" />
-      <jump line="1279" column="36" filename="$USER_HOME$/test/compA.php" />
-      <jump line="1280" column="34" filename="$USER_HOME$/test/compA.php" />
       <jump line="6593" column="31" filename="$USER_HOME$/test/comp.js" />
       <jump line="7" column="19" filename="$USER_HOME$/test/comp.js" />
       <jump line="7" column="26" filename="$USER_HOME$/test/compB.js" />
@@ -203,6 +198,13 @@
       <jump line="15" column="10" filename="$USER_HOME$/server/techweb/app/_includes/config.inc.php" />
       <jump line="31" column="9" filename="$USER_HOME$/server/techweb/app/_includes/config.inc.php" />
       <jump line="38" column="28" filename="$USER_HOME$/server/techweb/app/_includes/config.inc.php" />
+      <jump line="87" column="0" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
+      <jump line="3091" column="35" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
+      <jump line="3252" column="144" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
+      <jump line="3302" column="26" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
+      <jump line="3693" column="71" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
+      <jump line="3848" column="71" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
+      <jump line="3918" column="71" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -212,7 +214,7 @@
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>host</text>
+        <text encoding="base64">XDxwcmljZWxpc3RJdGVtXD4=</text>
       </register>
       <register name="0" type="4">
         <text>$mysqlVars</text>
@@ -249,19 +251,14 @@
       </register>
     </registers>
     <search>
-      <last-search>host</last-search>
+      <last-search encoding="base64">XDxwcmljZWxpc3RJdGVtXD4=</last-search>
       <last-offset />
-      <last-pattern>host</last-pattern>
+      <last-pattern encoding="base64">XDxwcmljZWxpc3RJdGVtXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>recordview</entry>
-        <entry>listview</entry>
-        <entry>record</entry>
-        <entry>Record</entry>
-        <entry>View</entry>
         <entry>view</entry>
         <entry>Actionmenu</entry>
         <entry>menu</entry>
@@ -277,6 +274,11 @@
         <entry encoding="base64">XDxlcnJvcl9yZXBvcnRpbmdcPg==</entry>
         <entry encoding="base64">XDx3ZWJQYXRoXD4=</entry>
         <entry>host</entry>
+        <entry>Price</entry>
+        <entry>Pricelist</entry>
+        <entry>Pricelisti</entry>
+        <entry>PricelistI</entry>
+        <entry encoding="base64">XDxwcmljZWxpc3RJdGVtXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -307,6 +309,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
