@@ -29,7 +29,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1479191989275">
+      <file name="/a.dummy" timestamp="1508919683570">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/test/B.js" timestamp="1479193006598">
@@ -53,6 +53,13 @@
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="97" column="17" />
+      </file>
+      <file name="$USER_HOME$/server/techweb/app/_includes/config.inc.php" timestamp="1508920067750">
+        <mark key="'" line="34" column="25" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="1" />
+        <mark key="." line="1" column="1" />
+        <mark key="^" line="2" column="1" />
       </file>
       <file name="$USER_HOME$/test/a.json" timestamp="1479371370183">
         <mark key="[" line="0" column="0" />
@@ -81,12 +88,9 @@
         <mark key="^" line="6" column="15" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/server/techweb/app/client.php" timestamp="1508919602751" />
     </filemarks>
     <jumps>
-      <jump line="6377" column="52" filename="$USER_HOME$/test/comp.js" />
-      <jump line="6429" column="65" filename="$USER_HOME$/test/comp.js" />
-      <jump line="6489" column="65" filename="$USER_HOME$/test/comp.js" />
-      <jump line="6549" column="54" filename="$USER_HOME$/test/comp.js" />
       <jump line="3396" column="34" filename="$USER_HOME$/test/compA.php" />
       <jump line="4874" column="40" filename="$USER_HOME$/test/compA.php" />
       <jump line="1220" column="35" filename="$USER_HOME$/test/compA.php" />
@@ -183,55 +187,59 @@
       <jump line="44" column="5" filename="$USER_HOME$/test/tesmp.php" />
       <jump line="111" column="5" filename="$USER_HOME$/test/tesmp.php" />
       <jump line="37" column="0" filename="$USER_HOME$/server/techweb/app/.htaccess" />
+      <jump line="4" column="2" filename="$USER_HOME$/server/techweb/app/_includes/config.inc.php" />
+      <jump line="2" column="9" filename="$USER_HOME$/server/techweb/app/_includes/config.inc.php" />
+      <jump line="3" column="12" filename="$USER_HOME$/server/techweb/app/_includes/config.inc.php" />
+      <jump line="34" column="25" filename="$USER_HOME$/server/techweb/app/_includes/config.inc.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PC9JZk1vZHVsZT4K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IG1vZF9waHA1LmM=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmaWx0ZXJfMVw+</text>
+        <text encoding="base64">XDxlcnJvcl9yZXBvcnRpbmdcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">PC9JZk1vZHVsZT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PC9JZk1vZHVsZT4K</text>
+        <text encoding="base64">ZGlzcGxheV9lcnJvcnMoMCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PElmTW9kdWxlIG1vZF9waHA1LmM+Cg==</text>
+        <text encoding="base64">PC9JZk1vZHVsZT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PAo=</text>
+        <text encoding="base64">PElmTW9kdWxlIG1vZF9waHA1LmM+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAoCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFtmaWx0ZXJfMV0gPT4gYXJyYXkK</text>
+        <text encoding="base64">ICAgICAgICAoCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">KAo=</text>
+        <text encoding="base64">ICAgIFtmaWx0ZXJfMV0gPT4gYXJyYXkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dGh1IG5vdiAxNyAxNDowMzoyOSAyMDE2IFsxNDA3XVsxXVtmYXRhbF0gYXJyYXkK</text>
+        <text encoding="base64">KAo=</text>
       </register>
       <register name=":" type="4">
         <text>set nu</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmaWx0ZXJfMVw+</last-search>
+      <last-search encoding="base64">XDxlcnJvcl9yZXBvcnRpbmdcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmaWx0ZXJfMVw+</last-pattern>
+      <last-pattern encoding="base64">XDxlcnJvcl9yZXBvcnRpbmdcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -256,6 +264,7 @@
         <entry encoding="base64">XDxzYXZlZF9yZXBvcnRfaWRcPg==</entry>
         <entry encoding="base64">XDx1c2VyX25hbWVcPg==</entry>
         <entry encoding="base64">XDxmaWx0ZXJfMVw+</entry>
+        <entry encoding="base64">XDxlcnJvcl9yZXBvcnRpbmdcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -283,6 +292,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
