@@ -62,12 +62,12 @@
       <file name="$USER_HOME$/server/techweb/app/_includes/welcome.inc.php" timestamp="1508922301935">
         <mark key="'" line="62" column="17" />
       </file>
-      <file name="$USER_HOME$/server/techweb/app/_includes/config.inc.php" timestamp="1508924665549">
+      <file name="$USER_HOME$/server/techweb/app/_includes/config.inc.php" timestamp="1508926158407">
         <mark key="'" line="38" column="28" />
-        <mark key="[" line="38" column="19" />
-        <mark key="]" line="38" column="23" />
-        <mark key="." line="38" column="23" />
-        <mark key="^" line="38" column="23" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="21" column="5" />
       </file>
       <file name="$USER_HOME$/server/techweb/app/index.php" timestamp="1508924081465">
         <mark key="." line="0" column="26" />
@@ -206,10 +206,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dmFyX2R1bXAoJG15c3FsVmFycyk7Cg==</text>
+        <text encoding="base64">CS8vJGRldk1vZGUgPSBmYWxzZTsK</text>
       </register>
       <register name="-" type="4">
-        <text>localhost</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>host</text>
@@ -218,31 +218,31 @@
         <text>$mysqlVars</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dmFyX2R1bXAoJG15c3FsVmFycyk7Cg==</text>
+        <text encoding="base64">CS8vJGRldk1vZGUgPSBmYWxzZTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXJyb3JfcmVwb3J0aW5nKEVfQUxMICYgfkVfTk9USUNFICYgfkVfU1RSSUNUICk7Cg==</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dmFyX2R1bXAoJGRiKTsKZXhpdDsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZXhpdDsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">dmFyX2R1bXAoJG15c3FsVmFycyk7Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">dmFyX2R1bXAoJG15c3FsVmFycyk7CmV4aXQ7Cg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ZXJyb3JfcmVwb3J0aW5nKEVfQUxMICYgfkVfTk9USUNFICYgfkVfU1RSSUNUICk7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">dmFyX2R1bXAoJGRiTmFtZSk7ZXhpdDsK</text>
-      </register>
-      <register name="8" type="2">
+      <register name="5" type="2">
         <text encoding="base64">dmFyX2R1bXAoJGRiKTsKZXhpdDsK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZXhpdDsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">dmFyX2R1bXAoJG15c3FsVmFycyk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">dmFyX2R1bXAoJG15c3FsVmFycyk7CmV4aXQ7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmFyX2R1bXAoJGRiTmFtZSk7ZXhpdDsK</text>
       </register>
       <register name=":" type="4">
         <text>set nu</text>
