@@ -17,6 +17,9 @@
         <mark key="." line="30" column="4" />
         <mark key="^" line="1" column="3" />
       </file>
+      <file name="$USER_HOME$/server/techweb/app/_includes/mod_apps/main.inc.php" timestamp="1508989911195">
+        <mark key="'" line="51" column="0" />
+      </file>
       <file name="$USER_HOME$/test/compB.js" timestamp="1479367869003">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -100,57 +103,15 @@
         <mark key="^" line="6" column="15" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" timestamp="1508927324031">
-        <mark key="'" line="3918" column="71" />
+      <file name="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" timestamp="1508990058599">
+        <mark key="'" line="4990" column="19" />
+        <mark key="[" line="5019" column="37" />
+        <mark key="]" line="5019" column="38" />
+        <mark key="." line="5019" column="38" />
+        <mark key="^" line="5019" column="36" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="6593" column="31" filename="$USER_HOME$/test/comp.js" />
-      <jump line="7" column="19" filename="$USER_HOME$/test/comp.js" />
-      <jump line="7" column="26" filename="$USER_HOME$/test/compB.js" />
-      <jump line="30" column="0" filename="$USER_HOME$/test/compB.js" />
-      <jump line="12819" column="0" filename="$USER_HOME$/test/compB.js" />
-      <jump line="685" column="12" filename="$USER_HOME$/test/compB.js" />
-      <jump line="33" column="12" filename="$USER_HOME$/test/compB.js" />
-      <jump line="695" column="12" filename="$USER_HOME$/test/comp.js" />
-      <jump line="698" column="9" filename="$USER_HOME$/test/comp.js" />
-      <jump line="773" column="12" filename="$USER_HOME$/test/comp.js" />
-      <jump line="694" column="30" filename="$USER_HOME$/test/compB.js" />
-      <jump line="2147" column="12" filename="$USER_HOME$/test/compB.js" />
-      <jump line="998" column="9" filename="$USER_HOME$/test/comp.js" />
-      <jump line="2146" column="1430" filename="$USER_HOME$/test/comp.js" />
-      <jump line="5943" column="8" filename="$USER_HOME$/test/compB.js" />
-      <jump line="7329" column="1451" filename="$USER_HOME$/test/compB.js" />
-      <jump line="7521" column="1443" filename="$USER_HOME$/test/compB.js" />
-      <jump line="7930" column="3083" filename="$USER_HOME$/test/compB.js" />
-      <jump line="8173" column="2383" filename="$USER_HOME$/test/compB.js" />
-      <jump line="8369" column="1357" filename="$USER_HOME$/test/compB.js" />
-      <jump line="8847" column="55" filename="$USER_HOME$/test/compB.js" />
-      <jump line="9064" column="29" filename="$USER_HOME$/test/compB.js" />
-      <jump line="9065" column="29" filename="$USER_HOME$/test/compB.js" />
-      <jump line="9163" column="917" filename="$USER_HOME$/test/compB.js" />
-      <jump line="9181" column="1453" filename="$USER_HOME$/test/compB.js" />
-      <jump line="9292" column="812" filename="$USER_HOME$/test/compB.js" />
-      <jump line="9720" column="64" filename="$USER_HOME$/test/compB.js" />
-      <jump line="9722" column="114" filename="$USER_HOME$/test/compB.js" />
-      <jump line="9738" column="190" filename="$USER_HOME$/test/compB.js" />
-      <jump line="9915" column="5902" filename="$USER_HOME$/test/compB.js" />
-      <jump line="10109" column="55" filename="$USER_HOME$/test/compB.js" />
-      <jump line="10221" column="273" filename="$USER_HOME$/test/compB.js" />
-      <jump line="10261" column="1641" filename="$USER_HOME$/test/compB.js" />
-      <jump line="614" column="340" filename="$USER_HOME$/test/compB.js" />
-      <jump line="998" column="9" filename="$USER_HOME$/test/compB.js" />
-      <jump line="2146" column="1561" filename="$USER_HOME$/test/compB.js" />
-      <jump line="2213" column="2779" filename="$USER_HOME$/test/compB.js" />
-      <jump line="3176" column="57" filename="$USER_HOME$/test/compB.js" />
-      <jump line="3761" column="65" filename="$USER_HOME$/test/compB.js" />
-      <jump line="5886" column="27" filename="$USER_HOME$/test/compB.js" />
-      <jump line="5890" column="27" filename="$USER_HOME$/test/compB.js" />
-      <jump line="5902" column="627" filename="$USER_HOME$/test/compB.js" />
-      <jump line="5904" column="566" filename="$USER_HOME$/test/compB.js" />
-      <jump line="5980" column="5306" filename="$USER_HOME$/test/compB.js" />
-      <jump line="6104" column="2393" filename="$USER_HOME$/test/compB.js" />
-      <jump line="6604" column="6147" filename="$USER_HOME$/test/compB.js" />
       <jump line="3804" column="18" filename="$USER_HOME$/test/compB.php" />
       <jump line="4834" column="47" filename="$USER_HOME$/test/compA.php" />
       <jump line="5071" column="1" filename="$USER_HOME$/test/compA.php" />
@@ -199,25 +160,71 @@
       <jump line="31" column="9" filename="$USER_HOME$/server/techweb/app/_includes/config.inc.php" />
       <jump line="38" column="28" filename="$USER_HOME$/server/techweb/app/_includes/config.inc.php" />
       <jump line="87" column="0" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
+      <jump line="4605" column="16" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
+      <jump line="4579" column="35" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
+      <jump line="5116" column="69" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
+      <jump line="5118" column="35" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
+      <jump line="5163" column="69" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
+      <jump line="860" column="12" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
+      <jump line="4" column="0" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
+      <jump line="1210" column="35" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
+      <jump line="1221" column="19" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
+      <jump line="1222" column="19" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
+      <jump line="1226" column="55" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
+      <jump line="1964" column="16" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
+      <jump line="2079" column="28" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
+      <jump line="2087" column="43" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
+      <jump line="2091" column="17" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
+      <jump line="2092" column="36" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
+      <jump line="2093" column="57" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
+      <jump line="2094" column="69" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
+      <jump line="3043" column="29" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
       <jump line="3091" column="35" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
+      <jump line="3239" column="0" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
+      <jump line="3247" column="19" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
+      <jump line="3248" column="19" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
+      <jump line="3249" column="19" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
       <jump line="3252" column="144" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
+      <jump line="3299" column="37" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
+      <jump line="3300" column="29" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
+      <jump line="3301" column="29" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
       <jump line="3302" column="26" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
+      <jump line="3303" column="21" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
+      <jump line="3394" column="29" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
       <jump line="3693" column="71" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
       <jump line="3848" column="71" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
       <jump line="3918" column="71" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
+      <jump line="4600" column="34" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
+      <jump line="4627" column="19" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
+      <jump line="4628" column="19" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
+      <jump line="4629" column="19" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
+      <jump line="4636" column="103" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
+      <jump line="4898" column="34" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
+      <jump line="4931" column="62" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
+      <jump line="44" column="12" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/main.inc.php" />
+      <jump line="2107" column="22" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/main.inc.php" />
+      <jump line="2351" column="31" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/main.inc.php" />
+      <jump line="2352" column="32" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/main.inc.php" />
+      <jump line="2354" column="29" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/main.inc.php" />
+      <jump line="2355" column="76" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/main.inc.php" />
+      <jump line="2357" column="56" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/main.inc.php" />
+      <jump line="2108" column="35" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/main.inc.php" />
+      <jump line="8" column="17" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/main.inc.php" />
+      <jump line="51" column="0" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/main.inc.php" />
+      <jump line="4990" column="19" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CS8vJGRldk1vZGUgPSBmYWxzZTsK</text>
+      <register name="&quot;" type="4">
+        <text>network</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>network</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcmljZWxpc3RJdGVtXD4=</text>
+        <text>pricelistI</text>
       </register>
-      <register name="0" type="4">
-        <text>$mysqlVars</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQkJCWFycmF5KAkibmFtZSIgPT4gIm5ldHdvcmsiLAoJCQkJCSJ0eXBlIiA9PiAnY2hlY2tib3gnKSwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CS8vJGRldk1vZGUgPSBmYWxzZTsK</text>
@@ -247,22 +254,20 @@
         <text encoding="base64">dmFyX2R1bXAoJGRiTmFtZSk7ZXhpdDsK</text>
       </register>
       <register name=":" type="4">
-        <text>set nu</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcmljZWxpc3RJdGVtXD4=</last-search>
+      <last-search>pricelistI</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcmljZWxpc3RJdGVtXD4=</last-pattern>
+      <last-pattern>pricelistI</last-pattern>
+      <last-replace>~</last-replace>
+      <last-substitute encoding="base64">XDxwcmljZWxpc3RJdGVtXD4=</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>view</entry>
-        <entry>Actionmenu</entry>
-        <entry>menu</entry>
-        <entry>actionmenu</entry>
         <entry>collection</entry>
         <entry>lost</entry>
         <entry>Lost</entry>
@@ -278,12 +283,16 @@
         <entry>Pricelist</entry>
         <entry>Pricelisti</entry>
         <entry>PricelistI</entry>
+        <entry encoding="base64">XDxhcnJheVw+</entry>
         <entry encoding="base64">XDxwcmljZWxpc3RJdGVtXD4=</entry>
+        <entry encoding="base64">XDxtb2RfYXBwX3ByaWNlbGlzdEl0ZW1zXD4=</entry>
+        <entry>pricelistite</entry>
+        <entry>pricelistI</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
-        <entry>q</entry>
         <entry>set nu</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -312,6 +321,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
