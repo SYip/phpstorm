@@ -17,8 +17,12 @@
         <mark key="." line="30" column="4" />
         <mark key="^" line="1" column="3" />
       </file>
-      <file name="$USER_HOME$/server/techweb/app/_includes/mod_apps/main.inc.php" timestamp="1508989911195">
-        <mark key="'" line="51" column="0" />
+      <file name="$USER_HOME$/server/techweb/app/_includes/mod_apps/main.inc.php" timestamp="1509003621138">
+        <mark key="'" line="2003" column="20" />
+        <mark key="[" line="1913" column="12" />
+        <mark key="]" line="1913" column="13" />
+        <mark key="^" line="1913" column="13" />
+        <mark key="." line="1913" column="13" />
       </file>
       <file name="$USER_HOME$/test/compB.js" timestamp="1479367869003">
         <mark key="[" line="0" column="0" />
@@ -106,53 +110,21 @@
         <mark key="^" line="6" column="15" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" timestamp="1508990058599">
-        <mark key="'" line="4990" column="19" />
+      <file name="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" timestamp="1509002617885">
+        <mark key="'" line="1248" column="31" />
         <mark key="[" line="5019" column="37" />
         <mark key="]" line="5019" column="38" />
         <mark key="." line="5019" column="38" />
         <mark key="^" line="5019" column="36" />
       </file>
-      <file name="$USER_HOME$/server/techweb/app/_admin/update.php" timestamp="1509001976551">
-        <mark key="'" line="471" column="41" />
+      <file name="$USER_HOME$/server/techweb/app/_admin/update.php" timestamp="1509002804047">
+        <mark key="'" line="144" column="16" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="371" column="78" filename="$USER_HOME$/server/techweb/app/_admin/update.php" />
-      <jump line="104" column="30" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="1628" column="16" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="218" column="9" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="1744" column="5" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="1747" column="24" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="1755" column="9" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="1757" column="71" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="219" column="18" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="1069" column="87" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="1899" column="17" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="1900" column="45" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="1907" column="13" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="1908" column="36" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="1909" column="20" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="1910" column="33" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="1065" column="4" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="1913" column="23" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="1393" column="19" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="1627" column="16" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="1750" column="18" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="223" column="16" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="1157" column="9" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="1289" column="18" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="1295" column="14" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="1306" column="22" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="1317" column="26" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="1328" column="26" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="1333" column="33" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="254" column="24" filename="$USER_HOME$/server/techweb/app/_admin/update.php" />
-      <jump line="309" column="24" filename="$USER_HOME$/server/techweb/app/_admin/update.php" />
-      <jump line="323" column="28" filename="$USER_HOME$/server/techweb/app/_admin/update.php" />
       <jump line="334" column="28" filename="$USER_HOME$/server/techweb/app/_admin/update.php" />
       <jump line="381" column="28" filename="$USER_HOME$/server/techweb/app/_admin/update.php" />
       <jump line="454" column="24" filename="$USER_HOME$/server/techweb/app/_admin/update.php" />
@@ -181,7 +153,6 @@
       <jump line="127" column="56" filename="$USER_HOME$/server/techweb/app/_admin/update.php" />
       <jump line="138" column="33" filename="$USER_HOME$/server/techweb/app/_admin/update.php" />
       <jump line="142" column="44" filename="$USER_HOME$/server/techweb/app/_admin/update.php" />
-      <jump line="144" column="11" filename="$USER_HOME$/server/techweb/app/_admin/update.php" />
       <jump line="307" column="0" filename="$USER_HOME$/server/techweb/app/_admin/update.php" />
       <jump line="357" column="45" filename="$USER_HOME$/server/techweb/app/_admin/update.php" />
       <jump line="276" column="47" filename="$USER_HOME$/server/techweb/app/_admin/update.php" />
@@ -221,55 +192,88 @@
       <jump line="5" column="5" filename="$USER_HOME$/server/techweb/app/_admin/update.php" />
       <jump line="520" column="69" filename="$USER_HOME$/server/techweb/app/_admin/update.php" />
       <jump line="471" column="41" filename="$USER_HOME$/server/techweb/app/_admin/update.php" />
+      <jump line="4987" column="46" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/server/techweb/app/_admin/update.php" />
+      <jump line="740" column="16" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/main.inc.php" />
+      <jump line="734" column="27" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/main.inc.php" />
+      <jump line="727" column="17" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/main.inc.php" />
+      <jump line="1672" column="17" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/main.inc.php" />
+      <jump line="935" column="24" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/main.inc.php" />
+      <jump line="4983" column="0" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
+      <jump line="5014" column="31" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
+      <jump line="5017" column="31" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
+      <jump line="5020" column="31" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
+      <jump line="5133" column="31" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
+      <jump line="5151" column="31" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
+      <jump line="91" column="35" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
+      <jump line="257" column="35" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
+      <jump line="1146" column="31" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
+      <jump line="1153" column="29" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
+      <jump line="1157" column="29" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
+      <jump line="1190" column="31" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
+      <jump line="1194" column="31" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
+      <jump line="1244" column="31" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
+      <jump line="1248" column="31" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
+      <jump line="1042" column="26" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/main.inc.php" />
+      <jump line="1044" column="55" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/main.inc.php" />
+      <jump line="1308" column="34" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/main.inc.php" />
+      <jump line="1682" column="17" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/main.inc.php" />
+      <jump line="805" column="16" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/main.inc.php" />
+      <jump line="144" column="16" filename="$USER_HOME$/server/techweb/app/_admin/update.php" />
+      <jump line="775" column="17" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/main.inc.php" />
+      <jump line="1693" column="36" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/main.inc.php" />
+      <jump line="1694" column="29" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/main.inc.php" />
+      <jump line="1916" column="17" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/main.inc.php" />
+      <jump line="2001" column="20" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/main.inc.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aWYoJF9QT1NUKXsKCXZhcl9kdW1wKCRfUE9TVCk7ZXhpdDsKfQo=</text>
+      <register name="&quot;" type="4">
+        <text>$sql</text>
       </register>
       <register name="-" type="4">
         <text>$_POST</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYW5cPg==</text>
+        <text encoding="base64">XDxuZXdGbGFnXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQkJCQkkdXNlcjEgPSBzcWxlc2NhcGUoJGVYX3VzZXIpOwoJCQkJCSRpbmNpZGVudElkID0gc3FsZXNjYXBlKCRuZXdSZWNvcmRJZCk7CgkJCQkJLy8gc2F2ZQoJCQkJCSRzcWwgPSAiSU5TRVJUIGludG8gbW9kX2FwcF9jb3JyZXNwb25kZW5jZSAoYWN0aW9uVGl0bGUsaW5mb3JtYXRpb24sZGF0ZSx1c2VyLGluY2lkZW50KSBWQUxVRVMgKCckYWN0aW9uVGl0bGUnLCckaW5mb3JtYXRpb24nLCckZGF0ZScsJyR1c2VyMScsJyRpbmNpZGVudElkJykiOwo=</text>
+      <register name="0" type="4">
+        <text>$sql</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aWYoJF9QT1NUKXsKCXZhcl9kdW1wKCRfUE9TVCk7ZXhpdDsKfQo=</text>
+        <text encoding="base64">CQkJCWt5Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aWYoJF9QT1NUKXsKCXZhcl9kdW1wKCRfUE9TVCk7ZXhpdDsKfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dmFyX2R1bXAoJF9QT1NUKTsKZXhpdDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CS8vJGRldk1vZGUgPSBmYWxzZTsK</text>
+        <text encoding="base64">dmFyX2R1bXAoJF9QT1NUKTsKZXhpdDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">CS8vJGRldk1vZGUgPSBmYWxzZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dmFyX2R1bXAoJG15c3FsVmFycyk7Cg==</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXJyb3JfcmVwb3J0aW5nKEVfQUxMICYgfkVfTk9USUNFICYgfkVfU1RSSUNUICk7Cg==</text>
+        <text encoding="base64">dmFyX2R1bXAoJG15c3FsVmFycyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dmFyX2R1bXAoJGRiKTsKZXhpdDsK</text>
+        <text encoding="base64">ZXJyb3JfcmVwb3J0aW5nKEVfQUxMICYgfkVfTk9USUNFICYgfkVfU1RSSUNUICk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhpdDsK</text>
+        <text encoding="base64">dmFyX2R1bXAoJGRiKTsKZXhpdDsK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtYW5cPg==</last-search>
+      <last-search encoding="base64">XDxuZXdGbGFnXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYW5cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxuZXdGbGFnXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxwcmljZWxpc3RJdGVtXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -277,10 +281,6 @@
     </search>
     <history>
       <history-search>
-        <entry>pricelistI</entry>
-        <entry encoding="base64">XDxfUE9TVFw+</entry>
-        <entry encoding="base64">XDxHZW5lcmF0ZVJlc3BvbnNlXD4=</entry>
-        <entry encoding="base64">XDxEdGxzXD4=</entry>
         <entry>respon</entry>
         <entry encoding="base64">XDxSZXNwb25zZVw+</entry>
         <entry encoding="base64">XDxSZXBseURhdGFcPg==</entry>
@@ -297,6 +297,10 @@
         <entry encoding="base64">XDxuZXdSZWNvcmRJZCo9XD4=</entry>
         <entry encoding="base64">XDxuZXdSZWNvcmRJZFw+</entry>
         <entry encoding="base64">XDxtYW5cPg==</entry>
+        <entry>checkbox</entry>
+        <entry>admin_up</entry>
+        <entry encoding="base64">XDx0eXBlXD4=</entry>
+        <entry encoding="base64">XDxuZXdGbGFnXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
