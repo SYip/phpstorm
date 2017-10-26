@@ -17,12 +17,11 @@
         <mark key="." line="30" column="4" />
         <mark key="^" line="1" column="3" />
       </file>
-      <file name="$USER_HOME$/server/techweb/app/_includes/mod_apps/main.inc.php" timestamp="1509003621138">
-        <mark key="'" line="2003" column="20" />
-        <mark key="[" line="1913" column="12" />
-        <mark key="]" line="1913" column="13" />
-        <mark key="^" line="1913" column="13" />
-        <mark key="." line="1913" column="13" />
+      <file name="$USER_HOME$/server/techweb/app/_includes/mod_apps/main.inc.php" timestamp="1509012906843">
+        <mark key="'" line="1887" column="43" />
+        <mark key="[" line="1912" column="0" />
+        <mark key="]" line="1912" column="0" />
+        <mark key="." line="1912" column="0" />
       </file>
       <file name="$USER_HOME$/test/compB.js" timestamp="1479367869003">
         <mark key="[" line="0" column="0" />
@@ -69,12 +68,12 @@
       <file name="$USER_HOME$/server/techweb/app/_includes/welcome.inc.php" timestamp="1508922301935">
         <mark key="'" line="62" column="17" />
       </file>
-      <file name="$USER_HOME$/server/techweb/app/_includes/config.inc.php" timestamp="1508926158407">
-        <mark key="'" line="38" column="28" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="21" column="5" />
+      <file name="$USER_HOME$/server/techweb/app/_includes/config.inc.php" timestamp="1509012863690">
+        <mark key="'" line="34" column="0" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="41" column="34" />
+        <mark key="^" line="1" column="1" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/server/techweb/app/index.php" timestamp="1508924081465">
         <mark key="." line="0" column="26" />
@@ -100,8 +99,12 @@
         <mark key="^" line="241" column="1" />
         <mark key="." line="241" column="1" />
       </file>
-      <file name="$USER_HOME$/server/techweb/app/exactivation.php" timestamp="1509000475443">
-        <mark key="'" line="1333" column="33" />
+      <file name="$USER_HOME$/server/techweb/app/exactivation.php" timestamp="1509012638565">
+        <mark key="'" line="53" column="9" />
+        <mark key="[" line="14" column="29" />
+        <mark key="]" line="14" column="32" />
+        <mark key="." line="14" column="32" />
+        <mark key="^" line="14" column="32" />
       </file>
       <file name="$USER_HOME$/test/compA.php" timestamp="1479198062590">
         <mark key="'" line="0" column="0" />
@@ -125,13 +128,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="334" column="28" filename="$USER_HOME$/server/techweb/app/_admin/update.php" />
-      <jump line="381" column="28" filename="$USER_HOME$/server/techweb/app/_admin/update.php" />
-      <jump line="454" column="24" filename="$USER_HOME$/server/techweb/app/_admin/update.php" />
-      <jump line="223" column="24" filename="$USER_HOME$/server/techweb/app/_admin/update.php" />
-      <jump line="1" column="0" filename="$USER_HOME$/server/techweb/app/_admin/update.php" />
-      <jump line="92" column="53" filename="$USER_HOME$/server/techweb/app/_admin/update.php" />
-      <jump line="137" column="16" filename="$USER_HOME$/server/techweb/app/_admin/update.php" />
       <jump line="86" column="5" filename="$USER_HOME$/server/techweb/app/_admin/update.php" />
       <jump line="75" column="7" filename="$USER_HOME$/server/techweb/app/_admin/update.php" />
       <jump line="89" column="35" filename="$USER_HOME$/server/techweb/app/_admin/update.php" />
@@ -225,55 +221,62 @@
       <jump line="1694" column="29" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/main.inc.php" />
       <jump line="1916" column="17" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/main.inc.php" />
       <jump line="2001" column="20" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/main.inc.php" />
+      <jump line="13" column="6" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
+      <jump line="70" column="13" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
+      <jump line="166" column="6" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
+      <jump line="165" column="0" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
+      <jump line="52" column="9" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
+      <jump line="36" column="0" filename="$USER_HOME$/server/techweb/app/_includes/config.inc.php" />
+      <jump line="1887" column="43" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/main.inc.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>$sql</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJLy9leGl0Owo=</text>
       </register>
       <register name="-" type="4">
-        <text>$_POST</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxuZXdGbGFnXD4=</text>
+        <text>var_d</text>
       </register>
-      <register name="0" type="4">
-        <text>$sql</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQkidXNyIiA9PiAiZXhhY3RhbF9hZG1pbiIsCgkJInB3ZCIgPT4gInByM2MxczEwbiIsCgkJImhvc3QiID0+ICJteXNxbDozMzA2Igo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCWt5Cg==</text>
+        <text encoding="base64">CQkJLy9leGl0Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aWYoJF9QT1NUKXsKCXZhcl9kdW1wKCRfUE9TVCk7ZXhpdDsKfQo=</text>
+        <text encoding="base64">CQkJLy92YXJfZHVtcCgkc3FsKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkidXNyIiA9PiAicm9vdCIsCgkJInB3ZCIgPT4gInJvb3QiLAoJCSJob3N0IiA9PiAibG9jYWxob3N0Igo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dmFyX2R1bXAoJF9QT1NUKTsKZXhpdDsK</text>
+        <text encoding="base64">Ly9pbmlfc2V0KCdlcnJvcl9yZXBvcnRpbmcnLCBFX0FMTCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CS8vJGRldk1vZGUgPSBmYWxzZTsK</text>
+        <text encoding="base64">Ly9pbmlfc2V0KCdkaXNwbGF5X2Vycm9ycycsIDEpOyAvLyBkaXNwbGF5IGVycm9yIGluIGxpdmUgZW52aXJvbm1lbnQ/Pz8/Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">CQkvLyJob3N0IiA9PiAibXlzcWwxLnF1YWRyYWhvc3RpbmcuY29tIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dmFyX2R1bXAoJG15c3FsVmFycyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXJyb3JfcmVwb3J0aW5nKEVfQUxMICYgfkVfTk9USUNFICYgfkVfU1RSSUNUICk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dmFyX2R1bXAoJGRiKTsKZXhpdDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxuZXdGbGFnXD4=</last-search>
+      <last-search>var_d</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxuZXdGbGFnXD4=</last-pattern>
+      <last-pattern>var_d</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxwcmljZWxpc3RJdGVtXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -281,10 +284,6 @@
     </search>
     <history>
       <history-search>
-        <entry>respon</entry>
-        <entry encoding="base64">XDxSZXNwb25zZVw+</entry>
-        <entry encoding="base64">XDxSZXBseURhdGFcPg==</entry>
-        <entry>insert</entry>
         <entry>INSERT</entry>
         <entry>mod_app_update</entry>
         <entry encoding="base64">XDxtb2RfYXBwX3VwZGF0ZVw+</entry>
@@ -301,6 +300,10 @@
         <entry>admin_up</entry>
         <entry encoding="base64">XDx0eXBlXD4=</entry>
         <entry encoding="base64">XDxuZXdGbGFnXD4=</entry>
+        <entry encoding="base64">XDxDUmVxdWVzdERldGFpbHNcPg==</entry>
+        <entry encoding="base64">XDxEaW1YU2VyaWFsUmVxdWVzdFw+</entry>
+        <entry encoding="base64">XDxEQlByb2R1Y3RWZXJzaW9uXD4=</entry>
+        <entry>var_d</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
