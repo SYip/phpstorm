@@ -102,12 +102,12 @@
         <mark key="^" line="241" column="1" />
         <mark key="." line="241" column="1" />
       </file>
-      <file name="$USER_HOME$/server/techweb/app/exactivation.php" timestamp="1509088982629">
-        <mark key="'" line="383" column="19" />
-        <mark key="[" line="367" column="31" />
-        <mark key="]" line="367" column="31" />
-        <mark key="." line="367" column="18" />
-        <mark key="^" line="367" column="17" />
+      <file name="$USER_HOME$/server/techweb/app/exactivation.php" timestamp="1509090298088">
+        <mark key="'" line="381" column="12" />
+        <mark key="[" line="381" column="74" />
+        <mark key="]" line="381" column="74" />
+        <mark key="." line="381" column="74" />
+        <mark key="^" line="381" column="74" />
       </file>
       <file name="$USER_HOME$/test/compA.php" timestamp="1479198062590">
         <mark key="'" line="0" column="0" />
@@ -132,14 +132,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1909" column="71" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/main.inc.php" />
-      <jump line="2084" column="35" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/main.inc.php" />
-      <jump line="2443" column="31" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/main.inc.php" />
-      <jump line="2526" column="34" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/main.inc.php" />
-      <jump line="605" column="42" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/main.inc.php" />
-      <jump line="673" column="45" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/main.inc.php" />
-      <jump line="2083" column="22" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/main.inc.php" />
-      <jump line="2949" column="51" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
       <jump line="2082" column="32" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
       <jump line="2069" column="32" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
       <jump line="2092" column="32" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
@@ -232,43 +224,51 @@
       <jump line="352" column="9" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
       <jump line="393" column="19" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
       <jump line="378" column="19" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
+      <jump line="379" column="6" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
+      <jump line="380" column="8" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
+      <jump line="963" column="52" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
+      <jump line="971" column="21" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
+      <jump line="1000" column="51" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
+      <jump line="1004" column="113" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
+      <jump line="1085" column="6" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
+      <jump line="381" column="12" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>pricelistItem</text>
+        <text encoding="base64">IERFQlVHIERVTVAgIi4kRHRscy0+U2VyaWFsTnVtYmVy</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Q1Jxc3REdGxzLT5PbGRTZXJpYWxOdW1iZXI=</text>
+        <text encoding="base64">IERFQlVHIERVTVAgIi4kRHRscy0+U2VyaWFsTnVtYmVy</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRMaWNlbnNlRGF0YVw+</text>
+        <text>mailer</text>
       </register>
-      <register name="0" type="4">
-        <text>pricelistItem</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAvL21haWxlcigiYWN0aXZhdGlvbnNAZXhhY3RhbC5jb20iLCAiYWN0aXZhdGlvbnNAZXhhY3RhbC5jb20iLCAiIERFQlVHIERVTVAgIi4kRHRscy0+U2VyaWFsTnVtYmVyLCAiQWN0aXZhdGlvbiBEdW1wIEZvbGxvd3MgXG4iLiRzcWwpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CSRzZXJubyA9IG15c3FsX3JlYWxfZXNjYXBlX3N0cmluZygkc2Vybm8pOwo=</text>
+        <text encoding="base64">ICAgICAgICB3aGlsZSgkcm93ID0gbXlzcWxfZmV0Y2hfYXNzb2MoJHJlc3VsdCkpewoJCQkKCQl9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CW15c3FsX3JlYWxfZXNjYXBlX3N0cmluZygK</text>
+        <text encoding="base64">CQkkbnVtID0gbXlzcWxfbnVtX3Jvd3MoJHJlc3VsdCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQljdXN0bmFtZTEsY3VzdG5hbWUyLHJlZ2R1c2VyMSxyZWdkdXNlcjIsYWRkcmVzczEsYWRkcmVzczIsCgkJcmVzZWxsZXIsY3VzdG9tZXIscHJvZHVjdCxjcmVhdGVkLG5vdGVzLGNvdW50cnkyLGVtYWlsMixwaG9uZTIsZmF4MiwKCQlvbGRzZXJubyxhY3RpdmUsaHdjaGFuZ2VzLG1haW50YWluZWQsbWFpbnRleHBpcnksbWFpbnRFeHBNYWlsU2VudCwKCQlwb3JkZXIsaW52b2ljZSxvcmlnaW5hbFZlcnNpb24sYWN0aXZhdGVkLHByaWNlbGlzdEl0ZW0sZWR1X3VzZXJJZCwKCQlwb3J0YWJsZSxpbnN0aXR1dGlvblVzZXJzLHByZXNvbGRNb250aHMsbmV0d29yayxuZXR3b3JrVXNlcnMsCgkJYXV0b3JlbmV3LGRpc2FibGVUaW1lLHNlcnZlckluY2x1ZGVkLHRva2VuUmVwbGFjZWQscmVzZWxsZXJjbGllbnQsCgkJZmxhZ1RvZ2dsZSxtYWNzLGxhc3RWZXJpZmllZAo=</text>
+        <text encoding="base64">CQkkZGF0YSA9IGFycmF5KCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJcmV0dXJuICRyb3dbMF07CgkJfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkkbnVtID0gbXlzcWxfbnVtX3Jvd3MoJHJlc3VsdCk7CgkJaWYoICRudW0gPT0gMSApIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">U1FMOwo=</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -278,9 +278,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRMaWNlbnNlRGF0YVw+</last-search>
+      <last-search>mailer</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRMaWNlbnNlRGF0YVw+</last-pattern>
+      <last-pattern>mailer</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxwcmljZWxpc3RJdGVtXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -288,9 +288,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhZG1pbl91cGRhdGVSZWNvcmRcPg==</entry>
-        <entry encoding="base64">XDxuZXdGbGFnXD4=</entry>
-        <entry>app_lic</entry>
         <entry>resp</entry>
         <entry encoding="base64">XDxHZW5lcmF0ZVJlc3BvbnNlXD4=</entry>
         <entry encoding="base64">XDxDUnFzdER0bHNcPg==</entry>
@@ -308,6 +305,9 @@
         <entry>select</entry>
         <entry>SELEC</entry>
         <entry encoding="base64">XDxnZXRMaWNlbnNlRGF0YVw+</entry>
+        <entry encoding="base64">XDxjYXRjaFw+</entry>
+        <entry>mail</entry>
+        <entry>mailer</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
