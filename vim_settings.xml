@@ -102,12 +102,12 @@
         <mark key="^" line="241" column="1" />
         <mark key="." line="241" column="1" />
       </file>
-      <file name="$USER_HOME$/server/techweb/app/exactivation.php" timestamp="1509090298088">
-        <mark key="'" line="381" column="12" />
-        <mark key="[" line="381" column="74" />
-        <mark key="]" line="381" column="74" />
-        <mark key="." line="381" column="74" />
-        <mark key="^" line="381" column="74" />
+      <file name="$USER_HOME$/server/techweb/app/exactivation.php" timestamp="1509091068366">
+        <mark key="'" line="433" column="79" />
+        <mark key="[" line="1252" column="0" />
+        <mark key="]" line="1252" column="0" />
+        <mark key="." line="1252" column="0" />
+        <mark key="^" line="1252" column="9" />
       </file>
       <file name="$USER_HOME$/test/compA.php" timestamp="1479198062590">
         <mark key="'" line="0" column="0" />
@@ -132,7 +132,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2082" column="32" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
       <jump line="2069" column="32" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
       <jump line="2092" column="32" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
       <jump line="2083" column="32" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
@@ -217,7 +216,6 @@
       <jump line="1433" column="303" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
       <jump line="124" column="12" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
       <jump line="527" column="20" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="353" column="19" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
       <jump line="330" column="23" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
       <jump line="1181" column="0" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
       <jump line="234" column="11" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
@@ -232,55 +230,57 @@
       <jump line="1004" column="113" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
       <jump line="1085" column="6" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
       <jump line="381" column="12" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
+      <jump line="353" column="9" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
+      <jump line="433" column="79" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IERFQlVHIERVTVAgIi4kRHRscy0+U2VyaWFsTnVtYmVy</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkvLyRFbWFpbFJlcGx5ID0gJEVtYWlsUmVwbHkgLiAiSVNfTkFNRUQ9dHJ1ZSIuIlxyXG4iOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IERFQlVHIERVTVAgIi4kRHRscy0+U2VyaWFsTnVtYmVy</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>mailer</text>
+        <text encoding="base64">XDxpc05hbWVkXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvL21haWxlcigiYWN0aXZhdGlvbnNAZXhhY3RhbC5jb20iLCAiYWN0aXZhdGlvbnNAZXhhY3RhbC5jb20iLCAiIERFQlVHIERVTVAgIi4kRHRscy0+U2VyaWFsTnVtYmVyLCAiQWN0aXZhdGlvbiBEdW1wIEZvbGxvd3MgXG4iLiRzcWwpOwo=</text>
+      <register name="0" type="4">
+        <text>$licenseData['isNamed']</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkvLyRFbWFpbFJlcGx5ID0gJEVtYWlsUmVwbHkgLiAiSVNfTkFNRUQ9dHJ1ZSIuIlxyXG4iOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZSgkcm93ID0gbXlzcWxfZmV0Y2hfYXNzb2MoJHJlc3VsdCkpewoJCQkKCQl9Cg==</text>
+        <text encoding="base64">CSRzcWwgPSAiU2VsZWN0IHNlcm5vLCBwcm9kdWN0VmVyc2lvbiwgbHZsLCBwcm9kdWN0LCBtYWludGFpbmVkLCBvcmlnaW5hbFZlcnNpb24sIHBvcnRhYmxlLCBuZXR3b3JrLCBuZXR3b3JrVXNlcnMgZnJvbSBtb2RfYXBwX2xpY2Vuc2VzIHdoZXJlIHNlcm5vID0nJENScXN0RHRscy0+U2VyaWFsTnVtYmVyJyBhbmQgYWN0aXZlPSdvbiciOwoJJHJlc3VsdCA9IG15c3FsX3F1ZXJ5KCRzcWwpOwogICAgICAgICRudW0gPSBteXNxbF9udW1fcm93cygkcmVzdWx0KTsKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkkbnVtID0gbXlzcWxfbnVtX3Jvd3MoJHJlc3VsdCk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkkZGF0YSA9IGFycmF5KCk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJcmV0dXJuICRyb3dbMF07CgkJfQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkkbnVtID0gbXlzcWxfbnVtX3Jvd3MoJHJlc3VsdCk7CgkJaWYoICRudW0gPT0gMSApIHsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB3aGlsZSgkcm93ID0gbXlzcWxfZmV0Y2hfYXNzb2MoJHJlc3VsdCkpewoJCQkKCQl9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkkbnVtID0gbXlzcWxfbnVtX3Jvd3MoJHJlc3VsdCk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkkZGF0YSA9IGFycmF5KCk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJcmV0dXJuICRyb3dbMF07CgkJfQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">CQkkbnVtID0gbXlzcWxfbnVtX3Jvd3MoJHJlc3VsdCk7CgkJaWYoICRudW0gPT0gMSApIHsK</text>
+      </register>
       <register name=":" type="4">
-        <text>set nu</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>mailer</last-search>
+      <last-search encoding="base64">XDxpc05hbWVkXD4=</last-search>
       <last-offset />
-      <last-pattern>mailer</last-pattern>
+      <last-pattern encoding="base64">XDxpc05hbWVkXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxwcmljZWxpc3RJdGVtXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -288,7 +288,6 @@
     </search>
     <history>
       <history-search>
-        <entry>resp</entry>
         <entry encoding="base64">XDxHZW5lcmF0ZVJlc3BvbnNlXD4=</entry>
         <entry encoding="base64">XDxDUnFzdER0bHNcPg==</entry>
         <entry encoding="base64">XDxHZXRDdXN0b21lckRldGFpbHNcPg==</entry>
@@ -304,15 +303,16 @@
         <entry>license</entry>
         <entry>select</entry>
         <entry>SELEC</entry>
-        <entry encoding="base64">XDxnZXRMaWNlbnNlRGF0YVw+</entry>
         <entry encoding="base64">XDxjYXRjaFw+</entry>
         <entry>mail</entry>
         <entry>mailer</entry>
+        <entry encoding="base64">XDxnZXRMaWNlbnNlRGF0YVw+</entry>
+        <entry encoding="base64">XDxpc05hbWVkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
-        <entry>q</entry>
         <entry>set nu</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -356,6 +356,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
