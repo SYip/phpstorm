@@ -37,7 +37,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1509076324652">
+      <file name="/a.dummy" timestamp="1509086474210">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -65,6 +65,11 @@
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="97" column="17" />
+      </file>
+      <file name="$USER_HOME$/server/techweb/app/resellers/license_export.php" timestamp="1509084604080">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/server/techweb/app/_includes/welcome.inc.php" timestamp="1508922301935">
         <mark key="'" line="62" column="17" />
@@ -97,12 +102,11 @@
         <mark key="^" line="241" column="1" />
         <mark key="." line="241" column="1" />
       </file>
-      <file name="$USER_HOME$/server/techweb/app/exactivation.php" timestamp="1509076866425">
-        <mark key="'" line="106" column="9" />
-        <mark key="[" line="1212" column="48" />
-        <mark key="]" line="1212" column="48" />
-        <mark key="." line="1212" column="48" />
-        <mark key="^" line="1212" column="48" />
+      <file name="$USER_HOME$/server/techweb/app/exactivation.php" timestamp="1509086501078">
+        <mark key="'" line="1888" column="12" />
+        <mark key="[" line="923" column="9" />
+        <mark key="]" line="923" column="10" />
+        <mark key="." line="923" column="10" />
       </file>
       <file name="$USER_HOME$/test/compA.php" timestamp="1479198062590">
         <mark key="'" line="0" column="0" />
@@ -127,27 +131,8 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="234" column="19" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="241" column="19" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="254" column="28" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="268" column="48" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="279" column="27" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="294" column="30" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="327" column="19" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="58" column="34" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="59" column="9" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="1728" column="21" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="1729" column="21" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="1730" column="19" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="1753" column="6" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="1466" column="4" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="1913" column="12" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="1403" column="10" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="1634" column="9" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="1924" column="0" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
       <jump line="1916" column="30" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
       <jump line="1372" column="30" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="1210" column="39" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
       <jump line="52" column="9" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
       <jump line="106" column="9" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
       <jump line="167" column="39" filename="$USER_HOME$/server/techweb/app/_admin/update.php" />
@@ -227,55 +212,74 @@
       <jump line="3942" column="374" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
       <jump line="5250" column="230" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
       <jump line="5251" column="39" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
+      <jump line="1675" column="64" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
+      <jump line="1758" column="4" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
+      <jump line="226" column="9" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
+      <jump line="1908" column="29" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
+      <jump line="1210" column="9" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
+      <jump line="1215" column="9" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
+      <jump line="73" column="13" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
+      <jump line="136" column="31" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
+      <jump line="139" column="9" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
+      <jump line="141" column="9" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
+      <jump line="488" column="40" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
+      <jump line="1906" column="14" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
+      <jump line="1042" column="31" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
+      <jump line="959" column="35" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
+      <jump line="1701" column="0" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
+      <jump line="1" column="0" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
+      <jump line="923" column="9" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
+      <jump line="1895" column="12" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
+      <jump line="1896" column="12" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZnVuY3Rpb24g</text>
+        <text encoding="base64">RmF4IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZnVuY3Rpb24g</text>
+        <text encoding="base64">RmF4IA==</text>
       </register>
       <register name="/" type="4">
-        <text>app_lic</text>
+        <text encoding="base64">XDxnZXRMaWNlbnNlRGV0YWlsc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlmdW5jdGlvbiBhZG1pbl91cGRhdGVyZWNvcmQoJGlkKSB7Cg==</text>
+        <text encoding="base64">CQkkQ1Jxc3REdGxzLT5GYXggPSAkcm93WzZdOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJLy9leGl0Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJLy92YXJfZHVtcCgkc3FsKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkidXNyIiA9PiAicm9vdCIsCgkJInB3ZCIgPT4gInJvb3QiLAoJCSJob3N0IiA9PiAibG9jYWxob3N0Igo=</text>
+        <text encoding="base64">U1FMOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly9pbmlfc2V0KCdlcnJvcl9yZXBvcnRpbmcnLCBFX0FMTCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly9pbmlfc2V0KCdkaXNwbGF5X2Vycm9ycycsIDEpOyAvLyBkaXNwbGF5IGVycm9yIGluIGxpdmUgZW52aXJvbm1lbnQ/Pz8/Cg==</text>
+        <text encoding="base64">CQkJLy9leGl0Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkvLyJob3N0IiA9PiAibXlzcWwxLnF1YWRyYWhvc3RpbmcuY29tIgo=</text>
+        <text encoding="base64">CQkJLy92YXJfZHVtcCgkc3FsKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkidXNyIiA9PiAicm9vdCIsCgkJInB3ZCIgPT4gInJvb3QiLAoJCSJob3N0IiA9PiAibG9jYWxob3N0Igo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly9pbmlfc2V0KCdlcnJvcl9yZXBvcnRpbmcnLCBFX0FMTCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>set nu</text>
       </register>
     </registers>
     <search>
-      <last-search>app_lic</last-search>
+      <last-search encoding="base64">XDxnZXRMaWNlbnNlRGV0YWlsc1w+</last-search>
       <last-offset />
-      <last-pattern>app_lic</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRMaWNlbnNlRGV0YWlsc1w+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxwcmljZWxpc3RJdGVtXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -283,14 +287,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxDUmVxdWVzdERldGFpbHNcPg==</entry>
-        <entry encoding="base64">XDxEQlByb2R1Y3RWZXJzaW9uXD4=</entry>
-        <entry>mod_app_p</entry>
-        <entry>license</entry>
-        <entry>mod_app_lic</entry>
-        <entry>from mod_app_lic</entry>
-        <entry encoding="base64">XDxnZXRQcm9kdWN0TmFtZVw+</entry>
-        <entry encoding="base64">XDxEQlByb2R1Y3ROYW1lXD4=</entry>
         <entry>pricelis</entry>
         <entry>licens</entry>
         <entry>last</entry>
@@ -301,13 +297,21 @@
         <entry>updateReco</entry>
         <entry encoding="base64">XDxhZG1pbl91cGRhdGVSZWNvcmRcPg==</entry>
         <entry encoding="base64">XDxuZXdGbGFnXD4=</entry>
-        <entry>licen</entry>
         <entry>app_lic</entry>
+        <entry>resp</entry>
+        <entry encoding="base64">XDxHZW5lcmF0ZVJlc3BvbnNlXD4=</entry>
+        <entry encoding="base64">XDxDUnFzdER0bHNcPg==</entry>
+        <entry>select</entry>
+        <entry encoding="base64">XDxHZXRDdXN0b21lckRldGFpbHNcPg==</entry>
+        <entry>getLi</entry>
+        <entry>licen</entry>
+        <entry encoding="base64">XDxHZXRMaWNlbnNlRGV0YWlsc1w+</entry>
+        <entry encoding="base64">XDxnZXRMaWNlbnNlRGV0YWlsc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
-        <entry>set nu</entry>
         <entry>q</entry>
+        <entry>set nu</entry>
       </history-cmd>
       <history-expr />
       <history-input />
