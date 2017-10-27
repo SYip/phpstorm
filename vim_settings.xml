@@ -78,12 +78,11 @@
         <mark key="^" line="241" column="1" />
         <mark key="." line="241" column="1" />
       </file>
-      <file name="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" timestamp="1509084181762">
-        <mark key="'" line="5258" column="39" />
-        <mark key="[" line="3967" column="41" />
-        <mark key="]" line="3968" column="12" />
-        <mark key="^" line="3968" column="12" />
-        <mark key="." line="3968" column="12" />
+      <file name="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" timestamp="1509096370587">
+        <mark key="'" line="5251" column="39" />
+        <mark key="[" line="3965" column="0" />
+        <mark key="]" line="3965" column="0" />
+        <mark key="." line="3965" column="0" />
       </file>
       <file name="$USER_HOME$/server/techweb/app/_admin/update.php" timestamp="1509077250844">
         <mark key="'" line="143" column="0" />
@@ -131,7 +130,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/server/techweb/app/exactivation.php" timestamp="1509094219125">
+      <file name="$USER_HOME$/server/techweb/app/exactivation.php" timestamp="1509096307084">
         <mark key="'" line="391" column="5" />
         <mark key="[" line="433" column="0" />
         <mark key="]" line="433" column="0" />
@@ -252,7 +251,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQlleGl0Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -264,31 +263,31 @@
         <text>$serno</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlleGl0Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQl2YXJfZHVtcCgkbGljZW5zZURhdGEpOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CXZhcl9kdW1wKCRzcWwpOwoJZXhpdDsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CWVjaG8gJHNlcm5vOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQl2YXJfZHVtcChteXNxbF9mZXRjaF9hc3NvYygkcmVzdWx0KSk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CXZhcl9kdW1wKCRzZXJubyk7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">CQkK</text>
       </register>
+      <register name="3" type="4">
+        <text encoding="base64">CQlwdWJsaWMgZnVuY3Rpb24gYWRtaW5fdXBkYXRlcmVjb3JkKCRpZCkgewoJCQlpZigkdGhpcy0+bmFtZT09ImxpY2Vuc2VzIikgewoJCQkJCgkJCX0KCQkJCgkJfQ==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQlleGl0Owo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQl2YXJfZHVtcCgkbGljZW5zZURhdGEpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CXZhcl9kdW1wKCRzcWwpOwoJZXhpdDsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CWVjaG8gJHNlcm5vOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CXZhcl9kdW1wKCRDUnFzdER0bHMtPmlzTmFtZWQpOwo=</text>
+        <text encoding="base64">CQl2YXJfZHVtcChteXNxbF9mZXRjaF9hc3NvYygkcmVzdWx0KSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkvLyRFbWFpbFJlcGx5ID0gJEVtYWlsUmVwbHkgLiAiSVNfTkFNRUQ9dHJ1ZSIuIlxyXG4iOwo=</text>
+        <text encoding="base64">CXZhcl9kdW1wKCRzZXJubyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
