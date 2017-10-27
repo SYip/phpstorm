@@ -17,11 +17,13 @@
         <mark key="." line="30" column="4" />
         <mark key="^" line="1" column="3" />
       </file>
-      <file name="$USER_HOME$/server/techweb/app/_includes/mod_apps/main.inc.php" timestamp="1509082369398">
-        <mark key="'" line="1395" column="38" />
-        <mark key="[" line="1912" column="0" />
-        <mark key="]" line="1912" column="0" />
-        <mark key="." line="1912" column="0" />
+      <file name="$USER_HOME$/server/techweb/app/_includes/mod_apps/main.inc.php" timestamp="1509084162954">
+        <mark key="a" line="1894" column="40" />
+        <mark key="'" line="2084" column="35" />
+        <mark key="[" line="1682" column="0" />
+        <mark key="]" line="1682" column="42" />
+        <mark key="." line="1682" column="35" />
+        <mark key="^" line="1894" column="20" />
       </file>
       <file name="$USER_HOME$/test/compB.js" timestamp="1479367869003">
         <mark key="[" line="0" column="0" />
@@ -109,12 +111,12 @@
         <mark key="^" line="6" column="15" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" timestamp="1509082496125">
-        <mark key="'" line="1991" column="45" />
-        <mark key="[" line="3921" column="38" />
-        <mark key="]" line="3921" column="18" />
-        <mark key="^" line="3921" column="18" />
-        <mark key="." line="3921" column="18" />
+      <file name="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" timestamp="1509084181762">
+        <mark key="'" line="5258" column="39" />
+        <mark key="[" line="3967" column="41" />
+        <mark key="]" line="3968" column="12" />
+        <mark key="^" line="3968" column="12" />
+        <mark key="." line="3968" column="12" />
       </file>
       <file name="$USER_HOME$/server/techweb/app/_admin/update.php" timestamp="1509077250844">
         <mark key="'" line="143" column="0" />
@@ -125,21 +127,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1409" column="275" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="1636" column="39" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="1821" column="39" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="326" column="19" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="331" column="27" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="354" column="122" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="360" column="103" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="623" column="35" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="659" column="19" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="673" column="29" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="749" column="34" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="782" column="38" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="809" column="31" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="829" column="34" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
       <jump line="234" column="19" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
       <jump line="241" column="19" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
       <jump line="254" column="28" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
@@ -176,7 +163,6 @@
       <jump line="3848" column="37" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
       <jump line="4176" column="25" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
       <jump line="5162" column="66" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
-      <jump line="5250" column="274" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
       <jump line="3046" column="8" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
       <jump line="3084" column="17" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
       <jump line="3404" column="23" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
@@ -190,7 +176,6 @@
       <jump line="1759" column="44" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/main.inc.php" />
       <jump line="1815" column="37" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/main.inc.php" />
       <jump line="726" column="17" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/main.inc.php" />
-      <jump line="727" column="23" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/main.inc.php" />
       <jump line="730" column="30" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/main.inc.php" />
       <jump line="731" column="32" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/main.inc.php" />
       <jump line="732" column="19" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/main.inc.php" />
@@ -206,7 +191,6 @@
       <jump line="605" column="42" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/main.inc.php" />
       <jump line="673" column="45" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/main.inc.php" />
       <jump line="2083" column="22" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/main.inc.php" />
-      <jump line="1395" column="38" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/main.inc.php" />
       <jump line="2949" column="51" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
       <jump line="2082" column="32" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
       <jump line="2069" column="32" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
@@ -225,19 +209,37 @@
       <jump line="143" column="0" filename="$USER_HOME$/server/techweb/app/_admin/update.php" />
       <jump line="1985" column="37" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
       <jump line="1991" column="45" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
+      <jump line="727" column="17" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/main.inc.php" />
+      <jump line="1395" column="38" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/main.inc.php" />
+      <jump line="734" column="27" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/main.inc.php" />
+      <jump line="1822" column="17" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/main.inc.php" />
+      <jump line="2001" column="20" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/main.inc.php" />
+      <jump line="1916" column="17" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/main.inc.php" />
+      <jump line="1540" column="20" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/main.inc.php" />
+      <jump line="1695" column="16" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/main.inc.php" />
+      <jump line="1884" column="24" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/main.inc.php" />
+      <jump line="1912" column="17" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/main.inc.php" />
+      <jump line="2086" column="22" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/main.inc.php" />
+      <jump line="2087" column="35" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/main.inc.php" />
+      <jump line="3884" column="8" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
+      <jump line="3932" column="20" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
+      <jump line="3933" column="25" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
+      <jump line="3942" column="374" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
+      <jump line="5250" column="230" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
+      <jump line="5251" column="39" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>name</text>
+        <text encoding="base64">ZnVuY3Rpb24g</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text encoding="base64">ZnVuY3Rpb24g</text>
       </register>
       <register name="/" type="4">
-        <text>licen</text>
+        <text>app_lic</text>
       </register>
-      <register name="0" type="4">
-        <text>isNamed</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQlmdW5jdGlvbiBhZG1pbl91cGRhdGVyZWNvcmQoJGlkKSB7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -271,9 +273,9 @@
       </register>
     </registers>
     <search>
-      <last-search>licen</last-search>
+      <last-search>app_lic</last-search>
       <last-offset />
-      <last-pattern>licen</last-pattern>
+      <last-pattern>app_lic</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxwcmljZWxpc3RJdGVtXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -281,8 +283,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxEaW1YU2VyaWFsUmVxdWVzdFw+</entry>
-        <entry>var_d</entry>
         <entry encoding="base64">XDxDUmVxdWVzdERldGFpbHNcPg==</entry>
         <entry encoding="base64">XDxEQlByb2R1Y3RWZXJzaW9uXD4=</entry>
         <entry>mod_app_p</entry>
@@ -297,10 +297,12 @@
         <entry encoding="base64">XDxtb2RfYXBwX3ByaWNlbGlzdEl0ZW1zXD4=</entry>
         <entry encoding="base64">XDxtb2RfYXBwX2xpY2Vuc2VzXD4=</entry>
         <entry>update</entry>
-        <entry>app_lic</entry>
         <entry>POST</entry>
         <entry>updateReco</entry>
+        <entry encoding="base64">XDxhZG1pbl91cGRhdGVSZWNvcmRcPg==</entry>
+        <entry encoding="base64">XDxuZXdGbGFnXD4=</entry>
         <entry>licen</entry>
+        <entry>app_lic</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -340,6 +342,15 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
