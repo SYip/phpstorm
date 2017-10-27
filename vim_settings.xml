@@ -10,13 +10,6 @@
         <mark key="." line="56" column="87" />
         <mark key="^" line="56" column="87" />
       </file>
-      <file name="$USER_HOME$/server/techweb/app/.htaccess" timestamp="1508919045944">
-        <mark key="'" line="40" column="0" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="4" />
-        <mark key="." line="30" column="4" />
-        <mark key="^" line="1" column="3" />
-      </file>
       <file name="$USER_HOME$/server/techweb/app/_includes/mod_apps/main.inc.php" timestamp="1509084162954">
         <mark key="a" line="1894" column="40" />
         <mark key="'" line="2084" column="35" />
@@ -31,11 +24,8 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/test/7ed.json" timestamp="1479369050653">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/server/techweb/app/resellers/new_license.php" timestamp="1509091681681">
+        <mark key="'" line="307" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1509086474210">
         <mark key="[" line="0" column="0" />
@@ -60,19 +50,10 @@
         <mark key="^" line="53" column="42" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/test/tesmp.php" timestamp="1479376769842">
-        <mark key="'" line="102" column="5" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="97" column="17" />
-      </file>
       <file name="$USER_HOME$/server/techweb/app/resellers/license_export.php" timestamp="1509084604080">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/server/techweb/app/_includes/welcome.inc.php" timestamp="1508922301935">
-        <mark key="'" line="62" column="17" />
       </file>
       <file name="$USER_HOME$/server/techweb/app/_includes/config.inc.php" timestamp="1509012863690">
         <mark key="'" line="34" column="0" />
@@ -91,30 +72,11 @@
         <mark key="^" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/test/b.json" timestamp="1479371338733">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/test/ceb0.js" timestamp="1479367901489">
         <mark key="[" line="2" column="3" />
         <mark key="]" line="241" column="1" />
         <mark key="^" line="241" column="1" />
         <mark key="." line="241" column="1" />
-      </file>
-      <file name="$USER_HOME$/server/techweb/app/exactivation.php" timestamp="1509091068366">
-        <mark key="'" line="433" column="79" />
-        <mark key="[" line="1252" column="0" />
-        <mark key="]" line="1252" column="0" />
-        <mark key="." line="1252" column="0" />
-        <mark key="^" line="1252" column="9" />
-      </file>
-      <file name="$USER_HOME$/test/compA.php" timestamp="1479198062590">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="6" column="15" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" timestamp="1509084181762">
         <mark key="'" line="5258" column="39" />
@@ -130,25 +92,54 @@
         <mark key="." line="477" column="594" />
         <mark key="^" line="477" column="594" />
       </file>
+      <file name="$USER_HOME$/server/techweb/app/.htaccess" timestamp="1508919045944">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="4" />
+        <mark key="." line="30" column="4" />
+        <mark key="^" line="1" column="3" />
+      </file>
+      <file name="$USER_HOME$/server/techweb/app/exactivation_testing.php" timestamp="1509092345693" />
+      <file name="$USER_HOME$/test/7ed.json" timestamp="1479369050653">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/test/tesmp.php" timestamp="1479376769842">
+        <mark key="'" line="102" column="5" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="97" column="17" />
+      </file>
+      <file name="$USER_HOME$/server/techweb/app/_includes/welcome.inc.php" timestamp="1508922301935">
+        <mark key="'" line="62" column="17" />
+      </file>
+      <file name="$USER_HOME$/server/techweb/app/dev/md5.php" timestamp="1509092252653" />
+      <file name="$USER_HOME$/test/b.json" timestamp="1479371338733">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/server/techweb/app/exactivation.php" timestamp="1509091068366">
+        <mark key="'" line="433" column="79" />
+        <mark key="[" line="1252" column="0" />
+        <mark key="]" line="1252" column="0" />
+        <mark key="." line="1252" column="0" />
+        <mark key="^" line="1252" column="9" />
+      </file>
+      <file name="$USER_HOME$/test/compA.php" timestamp="1479198062590">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="6" column="15" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/server/techweb/app/_includes/main.inc.php" timestamp="1509091807277">
+        <mark key="'" line="328" column="24" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="2069" column="32" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
-      <jump line="2092" column="32" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
-      <jump line="2083" column="32" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
-      <jump line="93" column="0" filename="$USER_HOME$/server/techweb/app/_admin/update.php" />
-      <jump line="110" column="42" filename="$USER_HOME$/server/techweb/app/_admin/update.php" />
-      <jump line="133" column="0" filename="$USER_HOME$/server/techweb/app/_admin/update.php" />
-      <jump line="137" column="10" filename="$USER_HOME$/server/techweb/app/_admin/update.php" />
-      <jump line="161" column="90" filename="$USER_HOME$/server/techweb/app/_admin/update.php" />
-      <jump line="162" column="60" filename="$USER_HOME$/server/techweb/app/_admin/update.php" />
-      <jump line="196" column="94" filename="$USER_HOME$/server/techweb/app/_admin/update.php" />
-      <jump line="200" column="125" filename="$USER_HOME$/server/techweb/app/_admin/update.php" />
-      <jump line="265" column="0" filename="$USER_HOME$/server/techweb/app/_admin/update.php" />
-      <jump line="144" column="22" filename="$USER_HOME$/server/techweb/app/_admin/update.php" />
-      <jump line="143" column="0" filename="$USER_HOME$/server/techweb/app/_admin/update.php" />
-      <jump line="1985" column="37" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
-      <jump line="1991" column="45" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" />
-      <jump line="727" column="17" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/main.inc.php" />
       <jump line="1395" column="38" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/main.inc.php" />
       <jump line="734" column="27" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/main.inc.php" />
       <jump line="1822" column="17" filename="$USER_HOME$/server/techweb/app/_includes/mod_apps/main.inc.php" />
@@ -232,6 +223,23 @@
       <jump line="381" column="12" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
       <jump line="353" column="9" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
       <jump line="433" column="79" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
+      <jump line="1199" column="0" filename="$USER_HOME$/server/techweb/app/resellers/new_license.php" />
+      <jump line="1239" column="12" filename="$USER_HOME$/server/techweb/app/resellers/new_license.php" />
+      <jump line="1248" column="32" filename="$USER_HOME$/server/techweb/app/resellers/new_license.php" />
+      <jump line="1249" column="32" filename="$USER_HOME$/server/techweb/app/resellers/new_license.php" />
+      <jump line="226" column="71" filename="$USER_HOME$/server/techweb/app/resellers/new_license.php" />
+      <jump line="227" column="33" filename="$USER_HOME$/server/techweb/app/resellers/new_license.php" />
+      <jump line="228" column="33" filename="$USER_HOME$/server/techweb/app/resellers/new_license.php" />
+      <jump line="232" column="58" filename="$USER_HOME$/server/techweb/app/resellers/new_license.php" />
+      <jump line="238" column="33" filename="$USER_HOME$/server/techweb/app/resellers/new_license.php" />
+      <jump line="246" column="12" filename="$USER_HOME$/server/techweb/app/resellers/new_license.php" />
+      <jump line="254" column="28" filename="$USER_HOME$/server/techweb/app/resellers/new_license.php" />
+      <jump line="255" column="33" filename="$USER_HOME$/server/techweb/app/resellers/new_license.php" />
+      <jump line="260" column="73" filename="$USER_HOME$/server/techweb/app/resellers/new_license.php" />
+      <jump line="302" column="95" filename="$USER_HOME$/server/techweb/app/resellers/new_license.php" />
+      <jump line="307" column="0" filename="$USER_HOME$/server/techweb/app/resellers/new_license.php" />
+      <jump line="289" column="13" filename="$USER_HOME$/server/techweb/app/_includes/main.inc.php" />
+      <jump line="328" column="24" filename="$USER_HOME$/server/techweb/app/_includes/main.inc.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -241,7 +249,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpc05hbWVkXD4=</text>
+        <text>hashit</text>
       </register>
       <register name="0" type="4">
         <text>$licenseData['isNamed']</text>
@@ -278,9 +286,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpc05hbWVkXD4=</last-search>
+      <last-search>hashit</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpc05hbWVkXD4=</last-pattern>
+      <last-pattern>hashit</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxwcmljZWxpc3RJdGVtXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -288,8 +296,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxHZW5lcmF0ZVJlc3BvbnNlXD4=</entry>
-        <entry encoding="base64">XDxDUnFzdER0bHNcPg==</entry>
         <entry encoding="base64">XDxHZXRDdXN0b21lckRldGFpbHNcPg==</entry>
         <entry>getLi</entry>
         <entry>licen</entry>
@@ -308,6 +314,8 @@
         <entry>mailer</entry>
         <entry encoding="base64">XDxnZXRMaWNlbnNlRGF0YVw+</entry>
         <entry encoding="base64">XDxpc05hbWVkXD4=</entry>
+        <entry>ype</entry>
+        <entry>hashit</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
