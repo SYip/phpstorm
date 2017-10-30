@@ -37,13 +37,6 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/server/techweb/app/tests/acceptance.suite.yml" timestamp="1509357829991">
-        <mark key="'" line="44" column="43" />
-        <mark key="[" line="44" column="25" />
-        <mark key="]" line="44" column="25" />
-        <mark key="." line="44" column="43" />
-        <mark key="^" line="26" column="43" />
-      </file>
       <file name="$USER_HOME$/test/new.json" timestamp="1479369044019">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -77,6 +70,13 @@
         <mark key="]" line="10" column="0" />
         <mark key="^" line="10" column="0" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/server/techweb/app/old_tests/acceptance.suite.yml" timestamp="1509359836795">
+        <mark key="'" line="19" column="4" />
+        <mark key="[" line="17" column="25" />
+        <mark key="]" line="17" column="43" />
+        <mark key="." line="17" column="43" />
+        <mark key="^" line="17" column="43" />
       </file>
       <file name="$USER_HOME$/test/ceb0.js" timestamp="1479367901489">
         <mark key="[" line="2" column="3" />
@@ -152,41 +152,14 @@
       <file name="$USER_HOME$/server/techweb/app/_includes/main.inc.php" timestamp="1509091807277">
         <mark key="'" line="328" column="24" />
       </file>
-      <file name="$USER_HOME$/server/techweb/app/tests/acceptance/SinginCept.php" timestamp="1509355260744">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="9" column="47" />
+      <file name="$USER_HOME$/server/techweb/app/tests/acceptance/SinginCept.php" timestamp="1509360042752">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="1" />
+        <mark key="." line="7" column="1" />
+        <mark key="^" line="7" column="1" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="959" column="35" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="1701" column="0" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="1" column="0" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="923" column="9" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="1895" column="12" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="1896" column="12" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="53" column="9" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="107" column="9" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="359" column="19" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="385" column="36" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="459" column="20" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="466" column="51" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="469" column="36" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="540" column="39" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="542" column="101" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="547" column="39" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="1792" column="28" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="267" column="9" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="1319" column="20" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="1138" column="20" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="1364" column="26" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="1196" column="62" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="52" column="9" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="106" column="9" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="491" column="24" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="494" column="24" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="439" column="46" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
       <jump line="1195" column="52" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
       <jump line="1194" column="27" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
       <jump line="495" column="4" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
@@ -260,19 +233,46 @@
       <jump line="0" column="0" filename="$USER_HOME$/server/techweb/app/_includes/config.inc.php" />
       <jump line="34" column="18" filename="$USER_HOME$/server/techweb/app/tests/acceptance.suite.yml" />
       <jump line="44" column="43" filename="$USER_HOME$/server/techweb/app/tests/acceptance.suite.yml" />
+      <jump line="18" column="0" filename="$USER_HOME$/server/techweb/app/old_tests/acceptance.suite.yml" />
+      <jump line="20" column="0" filename="$USER_HOME$/server/techweb/app/old_tests/acceptance.suite.yml" />
+      <jump line="21" column="4" filename="$USER_HOME$/server/techweb/app/old_tests/acceptance.suite.yml" />
+      <jump line="22" column="8" filename="$USER_HOME$/server/techweb/app/old_tests/acceptance.suite.yml" />
+      <jump line="23" column="8" filename="$USER_HOME$/server/techweb/app/old_tests/acceptance.suite.yml" />
+      <jump line="24" column="4" filename="$USER_HOME$/server/techweb/app/old_tests/acceptance.suite.yml" />
+      <jump line="25" column="8" filename="$USER_HOME$/server/techweb/app/old_tests/acceptance.suite.yml" />
+      <jump line="26" column="12" filename="$USER_HOME$/server/techweb/app/old_tests/acceptance.suite.yml" />
+      <jump line="27" column="0" filename="$USER_HOME$/server/techweb/app/old_tests/acceptance.suite.yml" />
+      <jump line="28" column="0" filename="$USER_HOME$/server/techweb/app/old_tests/acceptance.suite.yml" />
+      <jump line="29" column="0" filename="$USER_HOME$/server/techweb/app/old_tests/acceptance.suite.yml" />
+      <jump line="30" column="4" filename="$USER_HOME$/server/techweb/app/old_tests/acceptance.suite.yml" />
+      <jump line="31" column="8" filename="$USER_HOME$/server/techweb/app/old_tests/acceptance.suite.yml" />
+      <jump line="32" column="8" filename="$USER_HOME$/server/techweb/app/old_tests/acceptance.suite.yml" />
+      <jump line="33" column="4" filename="$USER_HOME$/server/techweb/app/old_tests/acceptance.suite.yml" />
+      <jump line="34" column="8" filename="$USER_HOME$/server/techweb/app/old_tests/acceptance.suite.yml" />
+      <jump line="35" column="12" filename="$USER_HOME$/server/techweb/app/old_tests/acceptance.suite.yml" />
+      <jump line="36" column="0" filename="$USER_HOME$/server/techweb/app/old_tests/acceptance.suite.yml" />
+      <jump line="37" column="0" filename="$USER_HOME$/server/techweb/app/old_tests/acceptance.suite.yml" />
+      <jump line="38" column="0" filename="$USER_HOME$/server/techweb/app/old_tests/acceptance.suite.yml" />
+      <jump line="39" column="4" filename="$USER_HOME$/server/techweb/app/old_tests/acceptance.suite.yml" />
+      <jump line="41" column="8" filename="$USER_HOME$/server/techweb/app/old_tests/acceptance.suite.yml" />
+      <jump line="42" column="4" filename="$USER_HOME$/server/techweb/app/old_tests/acceptance.suite.yml" />
+      <jump line="43" column="8" filename="$USER_HOME$/server/techweb/app/old_tests/acceptance.suite.yml" />
+      <jump line="44" column="12" filename="$USER_HOME$/server/techweb/app/old_tests/acceptance.suite.yml" />
+      <jump line="40" column="12" filename="$USER_HOME$/server/techweb/app/old_tests/acceptance.suite.yml" />
+      <jump line="19" column="4" filename="$USER_HOME$/server/techweb/app/old_tests/acceptance.suite.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>localhost:12000</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>localhost:12000</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>local</text>
+        <text>#</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXJsOiAnaHR0cDovL2xvY2FsaG9zdDoxMjAwMC8nCg==</text>
+      <register name="0" type="4">
+        <text>Reseller</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdXJsOiAnaHR0cDovL3RlY2h3ZWIuZXhhY3RhbC5jb20vJwo=</text>
@@ -306,9 +306,9 @@
       </register>
     </registers>
     <search>
-      <last-search>local</last-search>
+      <last-search>#</last-search>
       <last-offset />
-      <last-pattern>local</last-pattern>
+      <last-pattern>#</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxwcmljZWxpc3RJdGVtXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -316,7 +316,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxEQlByb2R1Y3ROYW1lXD4=</entry>
         <entry>pricelis</entry>
         <entry>license</entry>
         <entry>select</entry>
@@ -336,6 +335,7 @@
         <entry encoding="base64">XDxnZXRMaWNlbnNlRGF0YVw+</entry>
         <entry encoding="base64">XDxsaWNlbnNlRGF0YVw+</entry>
         <entry>local</entry>
+        <entry>#</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
