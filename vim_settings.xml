@@ -37,6 +37,12 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/server/techweb/app/tests/acceptance.suite.yml" timestamp="1509353934673">
+        <mark key="[" line="19" column="12" />
+        <mark key="]" line="19" column="16" />
+        <mark key="^" line="19" column="16" />
+        <mark key="." line="19" column="16" />
+      </file>
       <file name="$USER_HOME$/test/new.json" timestamp="1479369044019">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -250,8 +256,8 @@
       <jump line="391" column="5" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>another feature</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y2xhc3NfbmFtZTogV2ViR3V5Cm1vZHVsZXM6CiAgICBlbmFibGVkOgogICAgICAgIC0gUGhwQnJvd3NlcgogICAgICAgIC0gV2ViSGVscGVyCiAgICBjb25maWc6CiAgICAgICAgUGhwQnJvd3NlcjoKICAgICAgICAgICAgdXJsOiAnaHR0cDovL2xvY2FsaG9zdC9teWFwcC8nCg==</text>
       </register>
       <register name="-" type="4">
         <text>another feature</text>
@@ -259,8 +265,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxsaWNlbnNlRGF0YVw+</text>
       </register>
-      <register name="0" type="4">
-        <text>$serno</text>
+      <register name="0" type="2">
+        <text encoding="base64">Y2xhc3NfbmFtZTogV2ViR3V5Cm1vZHVsZXM6CiAgICBlbmFibGVkOgogICAgICAgIC0gUGhwQnJvd3NlcgogICAgICAgIC0gV2ViSGVscGVyCiAgICBjb25maWc6CiAgICAgICAgUGhwQnJvd3NlcjoKICAgICAgICAgICAgdXJsOiAnaHR0cDovL2xvY2FsaG9zdC9teWFwcC8nCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
