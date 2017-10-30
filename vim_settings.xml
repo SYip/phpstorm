@@ -93,11 +93,10 @@
         <mark key="^" line="477" column="594" />
       </file>
       <file name="$USER_HOME$/server/techweb/app/tests/activationTesting/activationFunctions.php" timestamp="1509093642243">
-        <mark key="'" line="7" column="28" />
-        <mark key="[" line="50" column="29" />
-        <mark key="]" line="50" column="33" />
-        <mark key="." line="50" column="33" />
-        <mark key="^" line="50" column="33" />
+        <mark key="[" line="3" column="29" />
+        <mark key="]" line="3" column="33" />
+        <mark key="." line="3" column="33" />
+        <mark key="^" line="3" column="33" />
       </file>
       <file name="$USER_HOME$/server/techweb/app/.htaccess" timestamp="1508919045944">
         <mark key="'" line="40" column="0" />
