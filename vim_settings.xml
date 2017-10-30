@@ -37,11 +37,12 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/server/techweb/app/tests/acceptance.suite.yml" timestamp="1509356593257">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-        <mark key="^" line="26" column="40" />
+      <file name="$USER_HOME$/server/techweb/app/tests/acceptance.suite.yml" timestamp="1509357829991">
+        <mark key="'" line="44" column="43" />
+        <mark key="[" line="44" column="25" />
+        <mark key="]" line="44" column="25" />
+        <mark key="." line="44" column="43" />
+        <mark key="^" line="26" column="43" />
       </file>
       <file name="$USER_HOME$/test/new.json" timestamp="1479369044019">
         <mark key="[" line="0" column="0" />
@@ -159,8 +160,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1906" column="14" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="1042" column="31" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
       <jump line="959" column="35" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
       <jump line="1701" column="0" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
       <jump line="1" column="0" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
@@ -259,16 +258,18 @@
       <jump line="70" column="13" filename="$USER_HOME$/server/techweb/app/.htaccess" />
       <jump line="16" column="21" filename="$USER_HOME$/server/techweb/app/_includes/config.inc.php" />
       <jump line="0" column="0" filename="$USER_HOME$/server/techweb/app/_includes/config.inc.php" />
+      <jump line="34" column="18" filename="$USER_HOME$/server/techweb/app/tests/acceptance.suite.yml" />
+      <jump line="44" column="43" filename="$USER_HOME$/server/techweb/app/tests/acceptance.suite.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXJsOiAnaHR0cDovL3RlY2h3ZWIuZXhhY3RhbC5jb20vJwo=</text>
+      <register name="&quot;" type="4">
+        <text>localhost:12000</text>
       </register>
       <register name="-" type="4">
-        <text>http://techweb.exactal.com/</text>
+        <text>localhost:12000</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsaWNlbnNlRGF0YVw+</text>
+        <text>local</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdXJsOiAnaHR0cDovL2xvY2FsaG9zdDoxMjAwMC8nCg==</text>
@@ -305,9 +306,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsaWNlbnNlRGF0YVw+</last-search>
+      <last-search>local</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsaWNlbnNlRGF0YVw+</last-pattern>
+      <last-pattern>local</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxwcmljZWxpc3RJdGVtXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -315,7 +316,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxJc1NlcmlhbEFjdGl2ZVw+</entry>
         <entry encoding="base64">XDxEQlByb2R1Y3ROYW1lXD4=</entry>
         <entry>pricelis</entry>
         <entry>license</entry>
@@ -335,6 +335,7 @@
         <entry>Nam</entry>
         <entry encoding="base64">XDxnZXRMaWNlbnNlRGF0YVw+</entry>
         <entry encoding="base64">XDxsaWNlbnNlRGF0YVw+</entry>
+        <entry>local</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
