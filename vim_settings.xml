@@ -134,12 +134,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/server/techweb/docker-compose.yml" timestamp="1509441361747">
-        <mark key="'" line="38" column="0" />
-        <mark key="[" line="209" column="6" />
-        <mark key="]" line="208" column="4" />
-        <mark key="." line="209" column="6" />
-        <mark key="^" line="208" column="4" />
+      <file name="$USER_HOME$/server/techweb/docker-compose.yml" timestamp="1509442872602">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="211" column="6" />
+        <mark key="]" line="209" column="4" />
+        <mark key="." line="211" column="6" />
+        <mark key="^" line="209" column="4" />
       </file>
       <file name="$USER_HOME$/server/techweb/app/tests/activationTesting/activationTest.js" timestamp="1509093717738">
         <mark key="[" line="159" column="39" />
@@ -183,19 +183,15 @@
         <mark key="^" line="4" column="16" />
         <mark key="." line="4" column="16" />
       </file>
-      <file name="$USER_HOME$/server/techweb/app/tests/acceptance/SinginCept.php" timestamp="1509441313152">
-        <mark key="'" line="11" column="8" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="19" />
-        <mark key="." line="5" column="15" />
-        <mark key="^" line="5" column="15" />
+      <file name="$USER_HOME$/server/techweb/app/tests/acceptance/SinginCept.php" timestamp="1509442984985">
+        <mark key="'" line="14" column="8" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="6" column="36" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="8" column="15" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="971" column="21" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="1000" column="51" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="1004" column="113" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="1085" column="6" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
       <jump line="381" column="12" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
       <jump line="1199" column="0" filename="$USER_HOME$/server/techweb/app/resellers/new_license.php" />
       <jump line="1239" column="12" filename="$USER_HOME$/server/techweb/app/resellers/new_license.php" />
@@ -289,59 +285,63 @@
       <jump line="197" column="2" filename="$USER_HOME$/server/techweb/docker-compose.yml" />
       <jump line="198" column="32" filename="$USER_HOME$/server/techweb/docker-compose.yml" />
       <jump line="12" column="8" filename="$USER_HOME$/server/techweb/docker-compose.yml" />
-      <jump line="0" column="0" filename="$USER_HOME$/server/techweb/docker-compose.yml" />
       <jump line="203" column="2" filename="$USER_HOME$/server/techweb/docker-compose.yml" />
       <jump line="38" column="0" filename="$USER_HOME$/server/techweb/docker-compose.yml" />
+      <jump line="208" column="15" filename="$USER_HOME$/server/techweb/docker-compose.yml" />
+      <jump line="23" column="7" filename="$USER_HOME$/server/techweb/docker-compose.yml" />
+      <jump line="205" column="16" filename="$USER_HOME$/server/techweb/docker-compose.yml" />
+      <jump line="9" column="0" filename="$USER_HOME$/server/techweb/docker-compose.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/server/techweb/docker-compose.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">JEktPndhbnRUbygnbG9naW4gdG8gcmVzZWxsZXIgcGFnZScpOwokSS0+bG9va0ZvcndhcmRUbygnYWNjZXNzIHJlc2VsbGVyIHBhZ2UgZmVhdHVyZSBmb3IgbG9nZ2VkLWluIHJlc2VsbGVyJyk7CiRJLT5hbU9uUGFnZSgncmVzZWxsZXJzL2luZGV4LnBocCcpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjaHJvbWVcPg==</text>
+        <text>link</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">JEktPnNlZSgnaGloaWFuZCcpOwo=</text>
+        <text encoding="base64">JEktPndhbnRUbygnbG9naW4gdG8gcmVzZWxsZXIgcGFnZScpOwokSS0+bG9va0ZvcndhcmRUbygnYWNjZXNzIHJlc2VsbGVyIHBhZ2UgZmVhdHVyZSBmb3IgbG9nZ2VkLWluIHJlc2VsbGVyJyk7CiRJLT5hbU9uUGFnZSgncmVzZWxsZXJzL2luZGV4LnBocCcpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGV4dHJhX2hvc3RzOgogICAgICAtICJ0ZWNod2ViLmV4YWN0YWwuY29tOjEyNy4wLjAuMSIK</text>
+        <text encoding="base64">ICAgICAgLSAidGVjaHdlYi5leGFjdGFsLmNvbTphcHAiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vZG5zOiA4LjguNC40Cg==</text>
+        <text encoding="base64">ICAgIGV4dHJhX2hvc3RzOgogICAgICAtICJ0ZWNod2ViLmV4YWN0YWwuY29tOjEyNy4wLjAuMSIK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIC8vZG5zOiA4LjguNC40Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Ly8kSS0+Y2xpY2soIkxvZ2luIik7Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>,
 )</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">YXJyYXkoCiAgICAnY2xhc3MnID0+IA==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">JEktPnNlbAo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjLSBQaHBCcm93c2VyCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHVybDogJ2h0dHA6Ly90ZWNod2ViLmV4YWN0YWwuY29tLycKICAgICAgICAgIGJyb3dzZXI6IGNocm9tZQo=</text>
+        <text encoding="base64">ICAgICAgICAjLSBQaHBCcm93c2VyCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjaHJvbWVcPg==</last-search>
+      <last-search>link</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjaHJvbWVcPg==</last-pattern>
+      <last-pattern>link</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxwcmljZWxpc3RJdGVtXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -349,7 +349,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjYXRjaFw+</entry>
         <entry>mail</entry>
         <entry>mailer</entry>
         <entry>ype</entry>
@@ -369,6 +368,7 @@
         <entry>email</entry>
         <entry encoding="base64">XDxmaWVsZFw+</entry>
         <entry encoding="base64">XDxjaHJvbWVcPg==</entry>
+        <entry>link</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
