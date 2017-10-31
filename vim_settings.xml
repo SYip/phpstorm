@@ -37,11 +37,11 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/server/techweb/app/tests/acceptance.suite.yml" timestamp="1509428283586">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="17" column="17" />
+      <file name="$USER_HOME$/server/techweb/app/tests/acceptance.suite.yml" timestamp="1509434643889">
+        <mark key="[" line="25" column="45" />
+        <mark key="]" line="25" column="45" />
+        <mark key="." line="25" column="45" />
+        <mark key="^" line="25" column="35" />
       </file>
       <file name="$USER_HOME$/test/new.json" timestamp="1479369044019">
         <mark key="[" line="0" column="0" />
@@ -67,7 +67,7 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/server/techweb/app/_includes/config.inc.php" timestamp="1509356426832">
+      <file name="$USER_HOME$/server/techweb/app/_includes/config.inc.php" timestamp="1509434624573">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="66" column="1" />
         <mark key="." line="66" column="1" />
@@ -284,17 +284,17 @@
       <jump line="969" column="56" filename="$USER_HOME$/server/techweb/app/tests/acceptance/WebGuy.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8kSS0+Y2xpY2soIkxvZ2luIik7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>testdb</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>testdb</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaWVsZFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">JEktPmNsaWNrKCJidG5zdHlsZSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAtIERiCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly8kSS0+Y2xpY2soIkxvZ2luIik7Cg==</text>
