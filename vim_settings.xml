@@ -73,10 +73,6 @@
         <mark key="." line="66" column="1" />
         <mark key="^" line="66" column="1" />
       </file>
-      <file name="$USER_HOME$/server/techweb/app/index.php" timestamp="1508924081465">
-        <mark key="." line="0" column="26" />
-        <mark key="^" line="0" column="20" />
-      </file>
       <file name="$USER_HOME$/test/a.json" timestamp="1479371370183">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="10" column="0" />
@@ -131,6 +127,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/server/techweb/docker-compose.yml" timestamp="1509437086057">
+        <mark key="[" line="200" column="4" />
+        <mark key="]" line="200" column="9" />
+        <mark key="^" line="200" column="9" />
+        <mark key="." line="200" column="9" />
       </file>
       <file name="$USER_HOME$/server/techweb/app/tests/activationTesting/activationTest.js" timestamp="1509093717738">
         <mark key="[" line="159" column="39" />
@@ -285,44 +287,44 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>exactal_tech_utf8</text>
+        <text>ports</text>
       </register>
       <register name="-" type="4">
-        <text>testdb</text>
+        <text>ports</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaWVsZFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>exactal_tech_utf8</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHBvcnRzOgogICAgICAtIDU5MDAK</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgIC8vZG5zOiA4LjguNC40Cg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Ly8kSS0+Y2xpY2soIkxvZ2luIik7Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>,
 )</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">YXJyYXkoCiAgICAnY2xhc3MnID0+IA==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">JEktPnNlbAo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjLSBQaHBCcm93c2VyCg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHVybDogJ2h0dHA6Ly90ZWNod2ViLmV4YWN0YWwuY29tLycKICAgICAgICAgIGJyb3dzZXI6IGNocm9tZQo=</text>
+        <text encoding="base64">ICAgICAgICAjLSBQaHBCcm93c2VyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjLSBQaHBCcm93c2VyCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHVybDogJ2h0dHA6Ly90ZWNod2ViLmV4YWN0YWwuY29tLycKICAgICAgICAgIGJyb3dzZXI6IGNocm9tZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBodHRwczovL2dpdGh1Yi5jb20vU2VsZW5pdW1IUS9kb2NrZXItc2VsZW5pdW0K</text>
+        <text encoding="base64">ICAgICAgICAjLSBQaHBCcm93c2VyCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
