@@ -32,16 +32,16 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/server/techweb/app/_includes/dbconnect.inc.php" timestamp="1508924685198">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
+      <file name="$USER_HOME$/server/techweb/app/_includes/dbconnect.inc.php" timestamp="1509435523552">
+        <mark key="[" line="12" column="28" />
+        <mark key="]" line="12" column="44" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/server/techweb/app/tests/acceptance.suite.yml" timestamp="1509434643889">
+      <file name="$USER_HOME$/server/techweb/app/tests/acceptance.suite.yml" timestamp="1509435538055">
         <mark key="[" line="25" column="45" />
-        <mark key="]" line="25" column="45" />
+        <mark key="]" line="25" column="62" />
         <mark key="." line="25" column="45" />
-        <mark key="^" line="25" column="35" />
+        <mark key="^" line="25" column="44" />
       </file>
       <file name="$USER_HOME$/test/new.json" timestamp="1479369044019">
         <mark key="[" line="0" column="0" />
@@ -285,7 +285,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>testdb</text>
+        <text>exactal_tech_utf8</text>
       </register>
       <register name="-" type="4">
         <text>testdb</text>
@@ -293,8 +293,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxmaWVsZFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAtIERiCg==</text>
+      <register name="0" type="4">
+        <text>exactal_tech_utf8</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly8kSS0+Y2xpY2soIkxvZ2luIik7Cg==</text>
