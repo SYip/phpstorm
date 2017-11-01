@@ -7,6 +7,9 @@
       <webServer id="1a0c912d-7151-4e1d-adc9-6a758b50d2b0" name="Techweb server" url="http://techweb.com:12000">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="50beab2a-33ae-45dd-bb01-d9570c3c1233" name="costweb" url="http://www.costweb.com.au/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
