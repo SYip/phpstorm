@@ -31,7 +31,7 @@
         <mark key="." line="20" column="50" />
         <mark key="^" line="20" column="50" />
       </file>
-      <file name="/a.dummy" timestamp="1509093833711">
+      <file name="/a.dummy" timestamp="1509592682283">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -176,6 +176,9 @@
         <mark key="]" line="433" column="0" />
         <mark key="." line="433" column="0" />
       </file>
+      <file name="/srv/costweb/app/_includes/customer_header.inc.php" timestamp="1509592676535">
+        <mark key="'" line="451" column="25" />
+      </file>
       <file name="$USER_HOME$/test/compA.php" timestamp="1479198062590">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -201,9 +204,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="260" column="73" filename="$USER_HOME$/server/techweb/app/resellers/new_license.php" />
-      <jump line="302" column="95" filename="$USER_HOME$/server/techweb/app/resellers/new_license.php" />
-      <jump line="307" column="0" filename="$USER_HOME$/server/techweb/app/resellers/new_license.php" />
       <jump line="289" column="13" filename="$USER_HOME$/server/techweb/app/_includes/main.inc.php" />
       <jump line="328" column="24" filename="$USER_HOME$/server/techweb/app/_includes/main.inc.php" />
       <jump line="1295" column="0" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
@@ -301,6 +301,9 @@
       <jump line="210" column="30" filename="$USER_HOME$/server/techweb/docker-compose.yml" />
       <jump line="208" column="4" filename="$USER_HOME$/server/techweb/docker-compose.yml" />
       <jump line="37" column="4" filename="$USER_HOME$/server/techweb/docker-compose.yml" />
+      <jump line="375" column="15" filename="/srv/costweb/app/_includes/customer_header.inc.php" />
+      <jump line="1" column="0" filename="/srv/costweb/app/_includes/customer_header.inc.php" />
+      <jump line="451" column="25" filename="/srv/costweb/app/_includes/customer_header.inc.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -310,7 +313,7 @@
         <text>phpc</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxleHRyYV9ob3N0c1w+</text>
+        <text encoding="base64">XDx1bmRlcl9tYWludGVuYW5jZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">JEktPm1ha2VTY3JlZW5zaG90KCk7Cg==</text>
@@ -347,9 +350,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxleHRyYV9ob3N0c1w+</last-search>
+      <last-search encoding="base64">XDx1bmRlcl9tYWludGVuYW5jZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxleHRyYV9ob3N0c1w+</last-pattern>
+      <last-pattern encoding="base64">XDx1bmRlcl9tYWludGVuYW5jZVw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxwcmljZWxpc3RJdGVtXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -357,7 +360,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxDaGFsbGVuZ2VcPg==</entry>
         <entry>joh</entry>
         <entry>john</entry>
         <entry>John</entry>
@@ -377,6 +379,7 @@
         <entry encoding="base64">XDxQSFBfREVCVUdHRVJcPg==</entry>
         <entry>{</entry>
         <entry encoding="base64">XDxleHRyYV9ob3N0c1w+</entry>
+        <entry encoding="base64">XDx1bmRlcl9tYWludGVuYW5jZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
