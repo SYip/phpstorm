@@ -25,6 +25,12 @@
       <file name="$USER_HOME$/server/techweb/app/resellers/new_license.php" timestamp="1509091681681">
         <mark key="'" line="307" column="0" />
       </file>
+      <file name="/srv/costweb/app/_includes/config.inc.php" timestamp="1509592592550">
+        <mark key="[" line="20" column="47" />
+        <mark key="]" line="20" column="50" />
+        <mark key="." line="20" column="50" />
+        <mark key="^" line="20" column="50" />
+      </file>
       <file name="/a.dummy" timestamp="1509093833711">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -297,11 +303,11 @@
       <jump line="37" column="4" filename="$USER_HOME$/server/techweb/docker-compose.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8kSS0+ZmlsbEZpZWxkKCcjZm9ybVRSX2Zvcm0xX2VtYWlsIGVtYWlsJywgJ3Rlc3QuYXVAZXhhY3RhbC5jb20nKTsK</text>
+      <register name="&quot;" type="4">
+        <text>phpc</text>
       </register>
       <register name="-" type="4">
-        <text>makeScreenshot()</text>
+        <text>phpc</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleHRyYV9ob3N0c1w+</text>
