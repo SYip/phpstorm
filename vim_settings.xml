@@ -102,6 +102,9 @@
         <mark key="^" line="241" column="1" />
         <mark key="." line="241" column="1" />
       </file>
+      <file name="/srv/costweb/app/access/applications/buildings.php" timestamp="1509605592693">
+        <mark key="'" line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/server/techweb/app/tests/acceptance/WebGuy.php" timestamp="1509417165465">
         <mark key="'" line="969" column="56" />
       </file>
@@ -132,6 +135,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="69" column="13" />
       </file>
+      <file name="/srv/costweb/app/access/applications/_tradeMovement.php" timestamp="1509605761632" />
       <file name="$USER_HOME$/test/7ed.json" timestamp="1479369050653">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -154,6 +158,9 @@
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="97" column="17" />
+      </file>
+      <file name="/srv/costweb/app/_includes/html.inc.php" timestamp="1509605549613">
+        <mark key="'" line="1071" column="0" />
       </file>
       <file name="$USER_HOME$/server/techweb/app/_includes/welcome.inc.php" timestamp="1508922301935">
         <mark key="'" line="62" column="17" />
@@ -204,11 +211,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="289" column="13" filename="$USER_HOME$/server/techweb/app/_includes/main.inc.php" />
-      <jump line="328" column="24" filename="$USER_HOME$/server/techweb/app/_includes/main.inc.php" />
-      <jump line="1295" column="0" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="224" column="42" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="1245" column="27" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
       <jump line="1246" column="48" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
       <jump line="1247" column="58" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
       <jump line="1568" column="42" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
@@ -304,6 +306,11 @@
       <jump line="375" column="15" filename="/srv/costweb/app/_includes/customer_header.inc.php" />
       <jump line="1" column="0" filename="/srv/costweb/app/_includes/customer_header.inc.php" />
       <jump line="451" column="25" filename="/srv/costweb/app/_includes/customer_header.inc.php" />
+      <jump line="2" column="5" filename="/srv/costweb/app/access/applications/buildings.php" />
+      <jump line="194" column="19" filename="/srv/costweb/app/access/applications/buildings.php" />
+      <jump line="1071" column="0" filename="/srv/costweb/app/_includes/html.inc.php" />
+      <jump line="197" column="19" filename="/srv/costweb/app/access/applications/buildings.php" />
+      <jump line="7" column="0" filename="/srv/costweb/app/access/applications/buildings.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -346,7 +353,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>set nu</text>
       </register>
     </registers>
     <search>
@@ -383,9 +390,9 @@
       </history-search>
       <history-cmd>
         <entry>w</entry>
-        <entry>set nu</entry>
         <entry>5020</entry>
         <entry>q</entry>
+        <entry>set nu</entry>
       </history-cmd>
       <history-expr />
       <history-input />
