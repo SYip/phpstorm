@@ -3,13 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/test/comp.js" timestamp="1479373080221">
-        <mark key="'" line="47" column="17" />
-        <mark key="[" line="56" column="74" />
-        <mark key="]" line="56" column="87" />
-        <mark key="." line="56" column="87" />
-        <mark key="^" line="56" column="87" />
-      </file>
       <file name="$USER_HOME$/server/techweb/app/resellers/index.php" timestamp="1509441321915">
         <mark key="[" line="0" column="15" />
         <mark key="]" line="0" column="4" />
@@ -31,7 +24,7 @@
         <mark key="." line="20" column="50" />
         <mark key="^" line="20" column="50" />
       </file>
-      <file name="/a.dummy" timestamp="1509592682283">
+      <file name="/a.dummy" timestamp="1509621171840">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -59,13 +52,6 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="$USER_HOME$/test/compB.php" timestamp="1479198107616">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="53" column="42" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/server/techweb/app/resellers/license_export.php" timestamp="1509084604080">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="13" column="0" />
@@ -76,6 +62,9 @@
         <mark key="]" line="66" column="1" />
         <mark key="." line="66" column="1" />
         <mark key="^" line="66" column="1" />
+      </file>
+      <file name="/srv/costweb/app/access/applications/buildingcosts.php" timestamp="1509622528542">
+        <mark key="'" line="20" column="10" />
       </file>
       <file name="$USER_HOME$/server/techweb/app/resellers/welcome.php" timestamp="1509501547430">
         <mark key="[" line="4" column="9" />
@@ -89,13 +78,6 @@
         <mark key="^" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/server/techweb/app/old_tests/acceptance.suite.yml" timestamp="1509359836795">
-        <mark key="'" line="19" column="4" />
-        <mark key="[" line="17" column="25" />
-        <mark key="]" line="17" column="43" />
-        <mark key="." line="17" column="43" />
-        <mark key="^" line="17" column="43" />
-      </file>
       <file name="$USER_HOME$/test/ceb0.js" timestamp="1479367901489">
         <mark key="[" line="2" column="3" />
         <mark key="]" line="241" column="1" />
@@ -108,32 +90,14 @@
       <file name="$USER_HOME$/server/techweb/app/tests/acceptance/WebGuy.php" timestamp="1509417165465">
         <mark key="'" line="969" column="56" />
       </file>
-      <file name="$USER_HOME$/server/techweb/app/_includes/mod_apps/mod_app_definitions.inc.php" timestamp="1509097673834">
-        <mark key="'" line="5251" column="39" />
-        <mark key="[" line="5019" column="82" />
-        <mark key="]" line="5019" column="105" />
-        <mark key="." line="5019" column="105" />
-        <mark key="^" line="5019" column="105" />
-      </file>
-      <file name="$USER_HOME$/server/techweb/app/_admin/update.php" timestamp="1509077250844">
-        <mark key="'" line="143" column="0" />
-        <mark key="[" line="477" column="588" />
-        <mark key="]" line="477" column="594" />
-        <mark key="." line="477" column="594" />
-        <mark key="^" line="477" column="594" />
-      </file>
       <file name="$USER_HOME$/server/techweb/app/tests/activationTesting/activationFunctions.php" timestamp="1509093642243">
         <mark key="[" line="3" column="29" />
         <mark key="]" line="3" column="33" />
         <mark key="." line="3" column="33" />
         <mark key="^" line="3" column="33" />
       </file>
-      <file name="$USER_HOME$/server/techweb/app/.htaccess" timestamp="1509356367704">
-        <mark key="'" line="69" column="13" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="69" column="13" />
+      <file name="/srv/costweb/app/_includes/mod_apps/main.inc.php" timestamp="1509621006191">
+        <mark key="'" line="2964" column="30" />
       </file>
       <file name="/srv/costweb/app/access/applications/_tradeMovement.php" timestamp="1509605761632" />
       <file name="$USER_HOME$/test/7ed.json" timestamp="1479369050653">
@@ -187,22 +151,8 @@
       <file name="/srv/costweb/app/_includes/customer_header.inc.php" timestamp="1509592676535">
         <mark key="'" line="451" column="25" />
       </file>
-      <file name="$USER_HOME$/test/compA.php" timestamp="1479198062590">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="6" column="15" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/server/techweb/app/_includes/main.inc.php" timestamp="1509091807277">
         <mark key="'" line="328" column="24" />
-      </file>
-      <file name="$USER_HOME$/server/techweb/app/tests/acceptance/temp.php" timestamp="1509413537049">
-        <mark key="'" line="33" column="99" />
-        <mark key="[" line="6" column="3" />
-        <mark key="]" line="4" column="16" />
-        <mark key="^" line="4" column="16" />
-        <mark key="." line="4" column="16" />
       </file>
       <file name="$USER_HOME$/server/techweb/app/tests/acceptance/SinginCept.php" timestamp="1509504241677">
         <mark key="[" line="6" column="36" />
@@ -210,12 +160,11 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
+      <file name="/srv/costweb/app/signup/apply.php" timestamp="1509622165437">
+        <mark key="'" line="15" column="12" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="1246" column="48" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="1247" column="58" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="1568" column="42" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="1726" column="11" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
       <jump line="15" column="9" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
       <jump line="74" column="9" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
       <jump line="47" column="0" filename="$USER_HOME$/server/techweb/app/tests/activationTesting/activationFunctions.php" />
@@ -312,6 +261,10 @@
       <jump line="1071" column="0" filename="/srv/costweb/app/_includes/html.inc.php" />
       <jump line="197" column="19" filename="/srv/costweb/app/access/applications/buildings.php" />
       <jump line="7" column="0" filename="/srv/costweb/app/access/applications/buildings.php" />
+      <jump line="15" column="12" filename="/srv/costweb/app/signup/apply.php" />
+      <jump line="2964" column="30" filename="/srv/costweb/app/_includes/mod_apps/main.inc.php" />
+      <jump line="109" column="16" filename="/srv/costweb/app/access/applications/buildingcosts.php" />
+      <jump line="20" column="10" filename="/srv/costweb/app/access/applications/buildingcosts.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -321,7 +274,7 @@
         <text>phpc</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1bmRlcl9tYWludGVuYW5jZVw+</text>
+        <text>model</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">JEktPm1ha2VTY3JlZW5zaG90KCk7Cg==</text>
@@ -358,9 +311,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1bmRlcl9tYWludGVuYW5jZVw+</last-search>
+      <last-search>model</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1bmRlcl9tYWludGVuYW5jZVw+</last-pattern>
+      <last-pattern>model</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxwcmljZWxpc3RJdGVtXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -368,8 +321,6 @@
     </search>
     <history>
       <history-search>
-        <entry>joh</entry>
-        <entry>john</entry>
         <entry>John</entry>
         <entry>jand</entry>
         <entry encoding="base64">XDxpc05hbWVkXD4=</entry>
@@ -388,6 +339,8 @@
         <entry>{</entry>
         <entry encoding="base64">XDxleHRyYV9ob3N0c1w+</entry>
         <entry encoding="base64">XDx1bmRlcl9tYWludGVuYW5jZVw+</entry>
+        <entry encoding="base64">XDxjcmVkaXRTdWJzY3JpcHRpb25cPg==</entry>
+        <entry>model</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
