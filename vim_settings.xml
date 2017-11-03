@@ -277,7 +277,7 @@
         <text>phpc</text>
       </register>
       <register name="/" type="4">
-        <text>MOD</text>
+        <text>myHo</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">JEktPm1ha2VTY3JlZW5zaG90KCk7Cg==</text>
@@ -314,9 +314,9 @@
       </register>
     </registers>
     <search>
-      <last-search>MOD</last-search>
+      <last-search>myHo</last-search>
       <last-offset />
-      <last-pattern>MOD</last-pattern>
+      <last-pattern>myHo</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxwcmljZWxpc3RJdGVtXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -324,8 +324,6 @@
     </search>
     <history>
       <history-search>
-        <entry>jand</entry>
-        <entry encoding="base64">XDxpc05hbWVkXD4=</entry>
         <entry>Nam</entry>
         <entry encoding="base64">XDxnZXRMaWNlbnNlRGF0YVw+</entry>
         <entry encoding="base64">XDxsaWNlbnNlRGF0YVw+</entry>
@@ -344,6 +342,8 @@
         <entry encoding="base64">XDxjcmVkaXRTdWJzY3JpcHRpb25cPg==</entry>
         <entry>model</entry>
         <entry>MOD</entry>
+        <entry>myM</entry>
+        <entry>myHo</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
