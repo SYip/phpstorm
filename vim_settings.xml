@@ -24,6 +24,9 @@
         <mark key="." line="20" column="50" />
         <mark key="^" line="20" column="50" />
       </file>
+      <file name="/srv/costweb/app/_includes/ip_login.php" timestamp="1509682049373">
+        <mark key="'" line="10" column="20" />
+      </file>
       <file name="/a.dummy" timestamp="1509621171840">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -165,7 +168,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="9" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
       <jump line="74" column="9" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
       <jump line="47" column="0" filename="$USER_HOME$/server/techweb/app/tests/activationTesting/activationFunctions.php" />
       <jump line="223" column="42" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
@@ -265,6 +267,7 @@
       <jump line="2964" column="30" filename="/srv/costweb/app/_includes/mod_apps/main.inc.php" />
       <jump line="109" column="16" filename="/srv/costweb/app/access/applications/buildingcosts.php" />
       <jump line="20" column="10" filename="/srv/costweb/app/access/applications/buildingcosts.php" />
+      <jump line="10" column="20" filename="/srv/costweb/app/_includes/ip_login.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -274,7 +277,7 @@
         <text>phpc</text>
       </register>
       <register name="/" type="4">
-        <text>model</text>
+        <text>MOD</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">JEktPm1ha2VTY3JlZW5zaG90KCk7Cg==</text>
@@ -311,9 +314,9 @@
       </register>
     </registers>
     <search>
-      <last-search>model</last-search>
+      <last-search>MOD</last-search>
       <last-offset />
-      <last-pattern>model</last-pattern>
+      <last-pattern>MOD</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxwcmljZWxpc3RJdGVtXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -321,7 +324,6 @@
     </search>
     <history>
       <history-search>
-        <entry>John</entry>
         <entry>jand</entry>
         <entry encoding="base64">XDxpc05hbWVkXD4=</entry>
         <entry>Nam</entry>
@@ -341,6 +343,7 @@
         <entry encoding="base64">XDx1bmRlcl9tYWludGVuYW5jZVw+</entry>
         <entry encoding="base64">XDxjcmVkaXRTdWJzY3JpcHRpb25cPg==</entry>
         <entry>model</entry>
+        <entry>MOD</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
