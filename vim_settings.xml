@@ -87,8 +87,8 @@
         <mark key="^" line="241" column="1" />
         <mark key="." line="241" column="1" />
       </file>
-      <file name="/srv/costweb/app/access/applications/buildings.php" timestamp="1509605592693">
-        <mark key="'" line="7" column="0" />
+      <file name="/srv/costweb/app/access/applications/buildings.php" timestamp="1509688316917">
+        <mark key="'" line="125" column="9" />
       </file>
       <file name="$USER_HOME$/server/techweb/app/tests/acceptance/WebGuy.php" timestamp="1509417165465">
         <mark key="'" line="969" column="56" />
@@ -98,6 +98,9 @@
         <mark key="]" line="3" column="33" />
         <mark key="." line="3" column="33" />
         <mark key="^" line="3" column="33" />
+      </file>
+      <file name="/srv/costweb/app/access/applications/mymodels.php" timestamp="1509688295612">
+        <mark key="'" line="6" column="5" />
       </file>
       <file name="/srv/costweb/app/_includes/mod_apps/main.inc.php" timestamp="1509621006191">
         <mark key="'" line="2964" column="30" />
@@ -168,10 +171,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="9" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="47" column="0" filename="$USER_HOME$/server/techweb/app/tests/activationTesting/activationFunctions.php" />
-      <jump line="223" column="42" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
-      <jump line="1271" column="18" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
       <jump line="1770" column="18" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
       <jump line="1778" column="41" filename="$USER_HOME$/server/techweb/app/exactivation.php" />
       <jump line="7" column="28" filename="$USER_HOME$/server/techweb/app/tests/activationTesting/activationFunctions.php" />
@@ -268,6 +267,10 @@
       <jump line="109" column="16" filename="/srv/costweb/app/access/applications/buildingcosts.php" />
       <jump line="20" column="10" filename="/srv/costweb/app/access/applications/buildingcosts.php" />
       <jump line="10" column="20" filename="/srv/costweb/app/_includes/ip_login.php" />
+      <jump line="6" column="5" filename="/srv/costweb/app/access/applications/mymodels.php" />
+      <jump line="5" column="50" filename="/srv/costweb/app/access/applications/buildings.php" />
+      <jump line="22" column="13" filename="/srv/costweb/app/access/applications/buildings.php" />
+      <jump line="125" column="9" filename="/srv/costweb/app/access/applications/buildings.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -277,7 +280,7 @@
         <text>phpc</text>
       </register>
       <register name="/" type="4">
-        <text>myHo</text>
+        <text encoding="base64">XDxteU1vZGVsc1BhZ2VcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">JEktPm1ha2VTY3JlZW5zaG90KCk7Cg==</text>
@@ -314,9 +317,9 @@
       </register>
     </registers>
     <search>
-      <last-search>myHo</last-search>
+      <last-search encoding="base64">XDxteU1vZGVsc1BhZ2VcPg==</last-search>
       <last-offset />
-      <last-pattern>myHo</last-pattern>
+      <last-pattern encoding="base64">XDxteU1vZGVsc1BhZ2VcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxwcmljZWxpc3RJdGVtXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -324,7 +327,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Nam</entry>
         <entry encoding="base64">XDxnZXRMaWNlbnNlRGF0YVw+</entry>
         <entry encoding="base64">XDxsaWNlbnNlRGF0YVw+</entry>
         <entry>local</entry>
@@ -344,6 +346,7 @@
         <entry>MOD</entry>
         <entry>myM</entry>
         <entry>myHo</entry>
+        <entry encoding="base64">XDxteU1vZGVsc1BhZ2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
